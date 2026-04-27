@@ -43,11 +43,11 @@ L'alimentazione è il **fondamento della salute canine** e il cibo secco (crocch
 
 | Marca | Prezzo/Kg | Pro | Contro | Link Amazon |
 |-------|-----------|-----|--------|-------------|
-| **Bosch Premium** | 4,50€ | Carne fresca 30%, senza cereali, ottimo rapporto qualità-prezzo | Gusto meno appetibile per cani esigenti | [Bosch Premium Dog Adult](https://www.amazon.it/dp/B00C7Z8Q8Y/?tag=audiobookit-21) |
-| **Brit Premium** | 3,90€ | Granuli croccanti, probiotici per digestione, economica | Proteine al 24% (inferiore ai top) | [Brit Premium Dog Adult](https://www.amazon.it/dp/B00C7Z8Q7K/?tag=audiobookit-21) |
-| **Acana Singles** | 8,90€ | 80% carne, monoproteico, senza cereali, premium | Costo elevato, gusto forte | [Acana Singles Dog](https://www.amazon.it/dp/B07K3QYR7M/?tag=audiobookit-21) |
-| **Royal Canin Mini Adult** | 5,80€ | Formulare per taglie piccole, palatabilità eccellente, veterinari consigliano | Cereali presenti, non monoproteico | [Royal Canin Mini Adult](https://www.amazon.it/dp/B00C7Z8Q6W/?tag=audiobookit-21) |
-| **Orijen Original** | 9,50€ | 85% carne fresca, proteine 40%, grasso 20%, massimo standard | Prezzo molto alto, gusto intenso | [Orijen Original Dog](https://www.amazon.it/dp/B00C7Z8Q5K/?tag=audiobookit-21) |
+| **Bosch Premium** | 4,50€ | Carne fresca 30%, senza cereali, ottimo rapporto qualità-prezzo | Gusto meno appetibile per cani esigenti | [Bosch My Friend Food Adult](https://www.amazon.it/dp/B002TRH3M0/?tag=audiobookit-21) |
+| **Brit Premium** | 3,90€ | Granuli croccanti, probiotici per digestione, economica | Proteine al 24% (inferiore ai top) | [Brit Premium Dog Adult](https://www.amazon.it/s?k=Brit+Premium+Dog+Adult&tag=audiobookit-21) |
+| **Acana Singles** | 8,90€ | 80% carne, monoproteico, senza cereali, premium | Costo elevato, gusto forte | [Acana Singles Maiale e Zucca](https://www.amazon.it/s?k=Acana+Singles+Maiale+Zucca&tag=audiobookit-21) |
+| **Royal Canin Mini Adult** | 5,80€ | Formulare per taglie piccole, palatabilità eccellente, veterinari consigliano | Cereali presenti, non monoproteico | [Royal Canin Mini Adult 2kg](https://www.amazon.it/dp/B003ZG7C8Y/?tag=audiobookit-21) |
+| **Orijen Original** | 9,50€ | 85% carne fresca, proteine 40%, grasso 20%, massimo standard | Prezzo molto alto, gusto intenso | [Orijen Original Dog](https://www.amazon.it/s?k=Orijen+Original+Dog&tag=audiobookit-21) |
 
 ### **Dettagli prodotti consigliati:**
 
