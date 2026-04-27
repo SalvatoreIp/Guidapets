@@ -1,0 +1,4 @@
+.env
+public/
+.wrangler/
+.hugo_build.lock

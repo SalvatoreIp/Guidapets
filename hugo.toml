@@ -1,0 +1,53 @@
+baseURL = "https://guidapets.com/"
+languageCode = "it-IT"
+title = "GuidaPets"
+theme = "PaperMod"
+
+[params]
+    description = "Guide pratiche per la cura e il benessere dei tuoi animali domestici"
+    mainSections = ["cani", "gatti", "salute", "prodotti", "piccoli-animali"]
+
+    [params.homeInfoParams]
+        Title = "GuidaPets - Il meglio per i tuoi animali"
+        Content = "Guide, consigli e recensioni per cani, gatti e piccoli animali."
+
+[[menu.main]]
+    identifier = "cani"
+    name = "Cani"
+    url = "/cani/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "gatti"
+    name = "Gatti"
+    url = "/gatti/"
+    weight = 20
+
+[[menu.main]]
+    identifier = "salute"
+    name = "Salute"
+    url = "/salute/"
+    weight = 30
+
+[[menu.main]]
+    identifier = "prodotti"
+    name = "Prodotti"
+    url = "/prodotti/"
+    weight = 40
+
+[[menu.main]]
+    identifier = "piccoli-animali"
+    name = "Piccoli Animali"
+    url = "/piccoli-animali/"
+    weight = 50
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+    changefreq = "weekly"
+    filename = "sitemap.xml"
+    priority = 0.5
+
+canonifyURLs = false
+relativeURLs = false
