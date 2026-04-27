@@ -41,13 +41,15 @@ L'alimentazione è il **fondamento della salute canine** e il cibo secco (crocch
 
 ### **Tabella comparativa completa:**
 
-| Marca | Prezzo/Kg | Pro | Contro | Link Amazon |
-|-------|-----------|-----|--------|-------------|
-| **Bosch Premium** | 4,50€ | Carne fresca 30%, senza cereali, ottimo rapporto qualità-prezzo | Gusto meno appetibile per cani esigenti | [Bosch My Friend Food Adult](https://www.amazon.it/dp/B002TRH3M0/?tag=audiobookit-21) |
-| **Brit Premium** | 3,90€ | Granuli croccanti, probiotici per digestione, economica | Proteine al 24% (inferiore ai top) | [Brit Premium Dog Adult](https://www.amazon.it/s?k=Brit+Premium+Dog+Adult&tag=audiobookit-21) |
-| **Acana Singles** | 8,90€ | 80% carne, monoproteico, senza cereali, premium | Costo elevato, gusto forte | [Acana Singles Maiale e Zucca](https://www.amazon.it/s?k=Acana+Singles+Maiale+Zucca&tag=audiobookit-21) |
-| **Royal Canin Mini Adult** | 5,80€ | Formulare per taglie piccole, palatabilità eccellente, veterinari consigliano | Cereali presenti, non monoproteico | [Royal Canin Mini Adult 2kg](https://www.amazon.it/dp/B003ZG7C8Y/?tag=audiobookit-21) |
+| Marca | Prezzo/Kg | Pro | Contro | Link Ricerca Amazon |
+|-------|-----------|-----|--------|---------------------|
+| **Bosch Premium** | 4,50€ | Carne fresca 30%, senza cereali, ottimo rapporto qualità-prezzo | Gusto meno appetibile per cani esigenti | [Bosch Premium Dog](https://www.amazon.it/s?k=Bosch+Premium+Dog+Adult&tag=audiobookit-21) |
+| **Brit Premium** | 3,90€ | Granuli croccanti, probiotici per digestione, economica | Proteine al 24% (inferiore ai top) | [Brit Premium Dog](https://www.amazon.it/s?k=Brit+Premium+Dog+Adult&tag=audiobookit-21) |
+| **Acana Singles** | 8,90€ | 80% carne, monoproteico, senza cereali, premium | Costo elevato, gusto forte | [Acana Singles Dog](https://www.amazon.it/s?k=Acana+Singles+Dog&tag=audiobookit-21) |
+| **Royal Canin Mini Adult** | 5,80€ | Formulare per taglie piccole, palatabilità eccellente, veterinari consigliano | Cereali presenti, non monoproteico | [Royal Canin Mini Adult](https://www.amazon.it/s?k=Royal+Canin+Mini+Adult&tag=audiobookit-21) |
 | **Orijen Original** | 9,50€ | 85% carne fresca, proteine 40%, grasso 20%, massimo standard | Prezzo molto alto, gusto intenso | [Orijen Original Dog](https://www.amazon.it/s?k=Orijen+Original+Dog&tag=audiobookit-21) |
+
+*Nota: Clicca sui link per vedere i prodotti reali, prezzi aggiornati e recensioni. Cerca "cibo secco cani" su Amazon.it per trovare tutti i modelli disponibili.*
 
 ### **Dettagli prodotti consigliati:**
 
@@ -58,7 +60,7 @@ L'alimentazione è il **fondamento della salute canine** e il cibo secco (crocch
 - **Vantaggi**: Carne fresca come primo ingrediente, senza soia, ricco di antiossidanti
 - **Ideale per**: Cani adulti 1-7 anni, tutte le taglie (formulare Mini, Medium, Maxi)
 - **Recensioni**: 4.6/5 su Amazon (2.300+ recensioni)
-- **Link**: [Acquista su Amazon](https://www.amazon.it/dp/B00C7Z8Q8Y/?tag=audiobookit-21)
+- **Link**: [Vedi su Amazon](https://www.amazon.it/s?k=Bosch+Premium+Dog+Adult&tag=audiobookit-21)
 
 #### **2. Brit Premium Dog Adult**
 - **Prezzo**: 3,90€/kg - 12kg: 47€
@@ -67,7 +69,7 @@ L'alimentazione è il **fondamento della salute canine** e il cibo secco (crocch
 - **Vantaggi**: Probiotici Lactobacillus per digestione, ottimo prezzo
 - **Ideale per**: Cani adulti con digestione sensibile, budget contenuto
 - **Recensioni**: 4.4/5 su Amazon (1.800+ recensioni)
-- **Link**: [Acquista su Amazon](https://www.amazon.it/dp/B00C7Z8Q7K/?tag=audiobookit-21)
+- **Link**: [Vedi su Amazon](https://www.amazon.it/s?k=Brit+Premium+Dog+Adult&tag=audiobookit-21)
 
 #### **3. Acana Singles Dog**
 - **Prezzo**: 8,90€/kg - 6kg: 53€
@@ -76,7 +78,7 @@ L'alimentazione è il **fondamento della salute canine** e il cibo secco (crocch
 - **Vantaggi**: Monoproteico (ideale per allergie), 0% cereali, 0% soia
 - **Ideale per**: Cani con intolleranze, razze sensibili, cuccioli di taglie grandi
 - **Recensioni**: 4.7/5 su Amazon (950+ recensioni)
-- **Link**: [Acquista su Amazon](https://www.amazon.it/dp/B07K3QYR7M/?tag=audiobookit-21)
+- **Link**: [Vedi su Amazon](https://www.amazon.it/s?k=Acana+Singles+Dog&tag=audiobookit-21)
 
 #### **4. Royal Canin Mini Adult**
 - **Prezzo**: 5,80€/kg - 2kg: 12€
@@ -85,7 +87,7 @@ L'alimentazione è il **fondamento della salute canine** e il cibo secco (crocch
 - **Vantaggi**: Granuli specifici per mandibole piccole, palatabilità eccellente, consigliata veterinari
 - **Ideale per**: Taglie piccole (2-10kg), cani esigenti, transizione alimentazione
 - **Recensioni**: 4.8/5 su Amazon (3.500+ recensioni)
-- **Link**: [Acquista su Amazon](https://www.amazon.it/dp/B00C7Z8Q6W/?tag=audiobookit-21)
+- **Link**: [Vedi su Amazon](https://www.amazon.it/s?k=Royal+Canin+Mini+Adult&tag=audiobookit-21)
 
 #### **5. Orijen Original Dog**
 - **Prezzo**: 9,50€/kg - 6kg: 57€
@@ -94,7 +96,7 @@ L'alimentazione è il **fondamento della salute canine** e il cibo secco (crocch
 - **Vantaggi**: Proteine massime sul mercato, 0% cereali, 0% legumi, stile "biologicamente appropriato"
 - **Ideale per**: Cani attivi, atleti, cuccioli grandi, performance massima
 - **Recensioni**: 4.7/5 su Amazon (1.200+ recensioni)
-- **Link**: [Acquista su Amazon](https://www.amazon.it/dp/B00C7Z8Q5K/?tag=audiobookit-21)
+- **Link**: [Vedi su Amazon](https://www.amazon.it/s?k=Orijen+Original+Dog&tag=audiobookit-21)
 
 ## **GUIDA ALLA SCELTA: COME TROVARE IL MIGLIOR CIBO PER IL TUO CANE**
 
