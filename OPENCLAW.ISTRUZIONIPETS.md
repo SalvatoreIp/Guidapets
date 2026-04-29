@@ -98,3 +98,34 @@ for SECTION in cani gatti salute prodotti piccoli-animali; do
 CODE=$(curl -o /dev/null -s -w “%{http_code}” https://guidapets.com/$SECTION/)
 echo “$SECTION -> $CODE”
 done
+
+## STRUTTURA FILE - NIENTE CARTELLE CON DATE
+
+Salva SEMPRE i file markdown direttamente nella cartella della categoria, SENZA sottocartelle di date.
+
+✅ CORRETTO:
+- content/prodotti/miglior-cibo-secco-cani-2026.md
+- content/cani/come-addestrare-cucciolo.md
+
+❌ SBAGLIATO:
+- content/prodotti/2026/04/28/miglior-cibo-secco-cani-2026.md
+
+La data va SOLO nel frontmatter: date: 2026-04-28T10:00:00+02:00
+
+---
+
+## REGOLA URL PER FACEBOOK E SOCIAL
+
+L'URL pubblico si ricava DAL PERCORSO DEL FILE, non va inventato.
+
+Formula: https://guidapets.com/[cartella]/[nome-file-senza-.md]/
+
+Esempi:
+- content/prodotti/miglior-cibo-secco-cani-2026.md → https://guidapets.com/prodotti/miglior-cibo-secco-cani-2026/
+- content/cani/come-addestrare-cucciolo.md → https://guidapets.com/cani/come-addestrare-cucciolo/
+
+Regole:
+- MAI aggiungere la data nell'URL
+- MAI inventare l'URL, ricavarlo SEMPRE dal percorso file
+- Aggiungere SEMPRE il trailing slash finale /
+- NON includere content/ nell'URL pubblico
