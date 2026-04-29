@@ -129,3 +129,16 @@ Regole:
 - MAI inventare l'URL, ricavarlo SEMPRE dal percorso file
 - Aggiungere SEMPRE il trailing slash finale /
 - NON includere content/ nell'URL pubblico
+
+## POST FACEBOOK - LUNGHEZZA
+
+Il testo del post Facebook deve essere CORTO: massimo 2 righe.
+
+✅ CORRETTO:
+"🐾 Qual è il miglior cibo secco per il tuo cane nel 2026? Abbiamo testato 5 marche per te!
+👉 https://guidapets.com/prodotti/miglior-cibo-secco-cani-2026/"
+
+❌ SBAGLIATO:
+Post lunghi con paragrafi, elenchi puntati, descrizioni dettagliate dell'articolo.
+
+Regola: emoji iniziale + frase curiosità/hook + link. Nient'altro.
