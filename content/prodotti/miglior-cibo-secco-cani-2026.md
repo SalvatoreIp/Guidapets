@@ -38,31 +38,31 @@ Abbiamo analizzato le crocchette più apprezzate dai veterinari e dai proprietar
 - **Prezzo indicativo aprile 2026:** €32,90 (12 kg)
 - **Pro:** Ingredienti naturali, senza cereali (opzione grain-free), ricca di proteine animali
 - **Contro:** Prezzo leggermente superiore alla media
-- **[Acquista su Amazon](https://www.amazon.it/s?k=natural+trainer+medium+adult+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/NovaFoods-Natural-Medium-Adult-Pollo/dp/B071S32CZF/?tag=audiobookit-21)**
 
 ### 2. **Monge Premium Adult Medium**
 - **Prezzo indicativo aprile 2026:** €28,50 (12 kg)
 - **Pro:** Glucosammina e condroitina per le articolazioni, probiotici per la digestione
 - **Contro:** Contiene cereali (non adatto a cani sensibili)
-- **[Acquista su Amazon](https://www.amazon.it/s?k=monge+premium+adult+medium+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/Monge-Adult-Medium-12-Kg/dp/B01FW4MNYE/?tag=audiobookit-21)**
 
 ### 3. **Acana Pacifica**
 - **Prezzo indicativo aprile 2026:** €45,90 (11,4 kg)
 - **Pro:** 60% di pesce come unica fonte proteica, senza cereali, super premium
 - **Contro:** Prezzo elevato, sapore di pesce che può non piacere a tutti i cani
-- **[Acquista su Amazon](https://www.amazon.it/s?k=acana+pacifica+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/Acana-Pacifica-Dog-Pesce-kg/dp/B01N9MRRI9/?tag=audiobookit-21)**
 
 ### 4. **Orijen Original**
 - **Prezzo indicativo aprile 2026:** €52,90 (11,4 kg)
 - **Pro:** 85% di carne fresca, formulazione biologica, alta digeribilità
 - **Contro:** Il costo più elevato della classifica
-- **[Acquista su Amazon](https://www.amazon.it/s?k=orijen+original+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/Orijen-Original-alimento-Cane-Adulto/dp/B06XFG1823/?tag=audiobookit-21)**
 
 ### 5. **Royal Canin Medium Adult**
 - **Prezzo indicativo aprile 2026:** €35,90 (15 kg)
 - **Pro:** Formulato specificamente per la taglia media, crocchette studiate per la mandibola
 - **Contro:** Contiene proteine artificiali, meno trasparente sugli ingredienti
-- **[Acquista su Amazon](https://www.amazon.it/s?k=royal+canin+medium+adult+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/Royal-Canin-Medium-Adult-15/dp/B005EFUAZQ/?tag=audiobookit-21)**
 
 ## Guida alla scelta: come scegliere le crocchette giuste
 
