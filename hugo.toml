@@ -5,7 +5,7 @@ theme = "PaperMod"
 
 [params]
     description = "Guide pratiche per la cura e il benessere dei tuoi animali domestici"
-    mainSections = ["cani", "gatti", "salute", "prodotti", "piccoli-animali"]
+    mainSections = ["cani", "gatti", "salute", "prodotti", "piccoli-animali", "acquari"]
 
     [params.homeInfoParams]
         Title = "GuidaPets - Il meglio per i tuoi animali"
@@ -51,3 +51,9 @@ theme = "PaperMod"
 
 canonifyURLs = false
 relativeURLs = false
+
+[[menu.main]]
+    identifier = "acquari"
+    name = "🐠 Acquari"
+    url = "/acquari/"
+    weight = 60
