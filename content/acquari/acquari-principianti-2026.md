@@ -3,7 +3,7 @@ title: "Acquari per Principianti 2026: Guida Completa Kit e Prodotti"
 date: 2026-05-03T11:00:00+02:00
 draft: false
 description: "Guida agli acquari per principianti 2026: kit completi 60L, filtri esterni, pesci tropicali. Tutto quello che serve per iniziare."
-categories: ["piccoli-animali"]
+categories: ["acquari"]
 tags: ["acquari", "pesci tropicali", "filtri acquario", "pesci", "hobby acquariofilo"]
 cover:
   image: /immagini/acquario-2026.jpg
