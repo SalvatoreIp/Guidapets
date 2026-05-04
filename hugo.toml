@@ -57,3 +57,6 @@ relativeURLs = false
     name = "🐠 Acquari"
     url = "/acquari/"
     weight = 60
+
+[markup.goldmark.renderer]
+  unsafe = true
