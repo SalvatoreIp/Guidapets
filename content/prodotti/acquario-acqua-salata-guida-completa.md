@@ -99,28 +99,21 @@ cover:
 <td>450 euro</td>
 <td>Vetro extra-chiaro, filtro Bioflow M integrato, design elegante</td>
 <td>Volume medio (180L), richiede sump per mare</td>
-<td><a href="https://www.amazon.it/Juwel-filtrazione-riscaldamento-illuminazione-armadietto/dp/B06XX4PKPC/?tag=guidapets-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/s?k=Juwel+Rio+180+LED&tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
-<td>Red Sea Reefer 170</td>
-<td>2.500 euro</td>
-<td>Sistema completo, sump integrato, design premium, controllo ReefBeat</td>
-<td>Prezzo elevato, volume grande</td>
-<td><a href="https://www.amazon.it/Red-Sea-Reefer-170-System/dp/B010GQ1DQC/?tag=guidapets-21" target="_blank">Amazon</a></td>
-</tr>
-<tr>
-<td>Set filtrazione marino 100L</td>
-<td>180 euro</td>
+<td>Set filtrazione marino 520L</td>
+<td>50 euro</td>
 <td>Skimmer, filtro biologico, pompa di circolazione, tutto incluso</td>
 <td>Richiede configurazione manuale</td>
-<td><a href="https://www.amazon.it/dp/B07K3XQZ8R/?tag=guidapets-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/s?k=Set+filtrazione+marino+520L&tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Luce LED Reef LED 170</td>
-<td>650 euro</td>
+<td>277 euro</td>
 <td>Spettro completo per coralli, controllo APP, risparmio energetico</td>
-<td>Costo elevato, programmazione complessa</td>
-<td><a href="https://www.amazon.it/dp/B07K5XQZ9M/?tag=guidapets-21" target="_blank">Amazon</a></td>
+<td></td>
+<td><a href="https://www.amazon.it/s?k=Luce+LED+Reef+LED+170&tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>

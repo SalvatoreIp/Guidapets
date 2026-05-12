@@ -48,12 +48,12 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 ### **Per CANI**
 
 #### 1. **Seresto (Collare)**
-- **Prezzo indicativo aprile 2026:** €35-45 (8 mesi)
+- **Prezzo indicativo aprile 2026:** €39,90
 - **Spettro:** Pulci, zecche, pappataci, zanzare
 - **Durata:** 8 mesi
 - **Pro:** Protezione continua, idrorepellente
 - **Contro:** Irritazione cutanea in cani sensibili
-- **[Acquista su Amazon](https://www.amazon.it/s?k=seresto+collare+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/dp/B071FJWXF4?tag=audiobook-21)**
 
 #### 2. **Simparica Trio (Compresse)**
 - **Prezzo indicativo aprile 2026:** €25-35 (1 compressa)
@@ -61,7 +61,7 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 1 mese
 - **Pro:** 4 in 1, azione rapida (2 ore)
 - **Contro:** Costo mensile elevato
-- **[Acquista su Amazon](https://www.amazon.it/s?k=simparica+trio+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/s?k=simparica+trio+cane&tag=audiobook-21)**
 
 #### 3. **Advantix II (Spot-on)**
 - **Prezzo indicativo aprile 2026:** €20-30 (3 pipette)
@@ -69,25 +69,25 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 4 settimane
 - **Pro:** Effetto repellente, economico
 - **Contro:** **TOSCO PER I GATTI**, non usare con gatti
-- **[Acquista su Amazon](https://www.amazon.it/s?k=advantix+ii+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/dp/B007RFQDNY?tag=audiobook-21)**
 
 #### 4. **NexGard Spectra (Compresse)**
-- **Prezzo indicativo aprile 2026:** €30-40 (1 compressa)
+- **Prezzo indicativo aprile 2026:** €31,86
 - **Spettro:** Pulci, zecche, cuore, tosa, anchilostomi
 - **Durata:** 1 mese
 - **Pro:** Buono rapporto qualità-prezzo, gusto carne
 - **Contro:** Deve assumere mensilmente
-- **[Acquista su Amazon](https://www.amazon.it/s?k=nexgard+spectra+cane)**
+- **[Acquista su Amazon](https://www.amazon.it/dp/B0BSL8VZ1M?tag=audiobook-21)**
 
 ### **Per GATTI**
 
 #### 1. **Serento per Gatti (Collare)**
-- **Prezzo indicativo aprile 2026:** €30-40 (7 mesi)
+- **Prezzo indicativo aprile 2026:** €29,69
 - **Spettro:** Pulci, zecche
 - **Durata:** 7 mesi
 - **Pro:** Sicuro per gatti, lunga durata
 - **Contro:** Non efficace contro flebotomi
-- **[Acquista su Amazon](https://www.amazon.it/s?k=serento+collare+gatto)**
+- **[Acquista su Amazon](https://www.amazon.it/dp/B00IA29Z9M?tag=audiobook-21)**
 
 #### 2. **Frontline Spot-on (Pipette)**
 - **Prezzo indicativo aprile 2026:** €15-25 (3 pipette)
@@ -95,7 +95,7 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 4 settimane
 - **Pro:** Sicuro per gatti e cuccioli, economico
 - **Contro:** Nessuno effetto repellente
-- **[Acquista su Amazon](https://www.amazon.it/s?k=frontline+spot+on+gatti)**
+- **[Acquista su Amazon](https://www.amazon.it/dp/B00IIPUR1Q?tag=audiobook-21)**
 
 #### 3. **Advantage Multi (Spot-on)**
 - **Prezzo indicativo aprile 2026:** €20-30 (3 pipette)
@@ -103,15 +103,15 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 4 settimane
 - **Pro:** Multispettro, sicuro per gatti
 - **Contro:** Costo mensile
-- **[Acquista su Amazon](https://www.amazon.it/s?k=advantage+multi+gatti)**
+- **[Acquista su Amazon](https://www.amazon.it/dp/B07MV4TMS9?tag=audiobook-21)**
 
 #### 4. **Bravecto per Gatti (Compresse)**
-- **Prezzo indicativo aprile 2026:** €35-50 (1 compressa)
+- **Prezzo indicativo aprile 2026:** €25,85
 - **Spettro:** Pulci, zecche
 - **Durata:** 3 mesi
 - **Pro:** Solo 3 volte l'anno, azione rapida
 - **Contro:** Costo iniziale elevato
-- **[Acquista su Amazon](https://www.amazon.it/s?k=bravecto+gatti)**
+- **[Acquista su Amazon](https://www.amazon.it/dp/B0CTKLD2MN?tag=audiobook-21)**
 
 ## Tabella confronto prezzi annuali (cane medio 20 kg)
 
