@@ -1,6 +1,6 @@
 ---
 title: "Antiparassitari per Gatti 2026: Guida Completa alle Soluzioni"
-date: 2026-06-07T15:50:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa agli antiparassitari per gatti 2026: spot on, collari, pastiglie. Proteggi il tuo felino da pulci, zecche e parassiti con i migliori prodotti."
 categories: ["gatti"]
