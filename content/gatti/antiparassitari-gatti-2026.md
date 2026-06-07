@@ -6,7 +6,9 @@ description: "Guida completa agli antiparassitari per gatti 2026: spot on, colla
 categories: ["gatti"]
 tags: ["gatti", "antiparassitari", "salute", "prodotti", "pulci", "zecche"]
 author: "GuidaPets Team"
-image: /immagini/antiparassitari-gatti-2026.jpg
+cover:
+  image: "/immagini/antiparassitari-gatti-2026.jpg"
+  alt: "Antiparassitari per gatti 2026"
 ---
 
 Antiparassitari per Gatti 2026: Guida Completa alle Soluzioni
