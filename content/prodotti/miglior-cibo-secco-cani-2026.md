@@ -1,6 +1,6 @@
 ---
 title: "Miglior cibo secco per cani 2026: guida completa ai migliori prodotti"
-date: 2026-05-03T21:30:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida ai migliori cibi secchi per cani 2026: prezzi, ingredienti e recensioni. Trova l'alimento perfetto per il tuo cane a prezzi convenienti!"
 categories: ["prodotti"]

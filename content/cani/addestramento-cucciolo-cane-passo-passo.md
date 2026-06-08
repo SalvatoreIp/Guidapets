@@ -1,6 +1,6 @@
 ---
 title: "Addestramento base cucciolo passo passo: guida completa 2026"
-date: 2026-05-01T06:00:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida passo passo per addestrare il tuo cucciolo di cane. Comandi base, tempi corretti e tecniche di educazione positiva per un cane ben educato."
 categories: ["cani"]

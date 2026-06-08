@@ -1,6 +1,6 @@
 ---
 title: "Acquario di acqua salata: guida completa per principianti"
-date: 2026-05-05T16:50:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida all'acquario marino per principianti: attrezzature, costi, pesce e coralli. Scopri come allestire un acquario di acqua salata con successo!"
 categories: ["prodotti"]

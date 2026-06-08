@@ -1,6 +1,6 @@
 ---
 title: "Migliori accessori per cani 2026: collare, guinzaglio, pettorine, giochi"
-date: 2026-04-28T07:01:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa ai migliori accessori per cani 2026: collari, guinzagli, pettorine, giochi. Confronta prezzi, caratteristiche e consigli per scegliere il meglio."
 categories: ["prodotti"]

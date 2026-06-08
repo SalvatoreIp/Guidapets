@@ -1,6 +1,6 @@
 ---
 title: "Antiparassitari cani e gatti 2026: guida completa ai migliori prodotti"
-date: 2026-05-02T07:00:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa agli antiparassitari per cani e gatti nel 2026: spot on, compresse, collari. Confronto prezzi, efficacia e consigli veterinari per proteggere il tuo animale."
 categories: ["prodotti"]

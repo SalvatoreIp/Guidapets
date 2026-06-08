@@ -1,6 +1,6 @@
 ---
 title: "Antiparassitari spot on e collari per cani e gatti: guida completa 2026"
-date: 2026-05-09T07:48:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa agli antiparassitari spot on e collari per cani e gatti: confronto Frontline, Seresto, Bravecto, Advantix. Prezzi, efficacia e consigli del veterinario."
 categories: ["prodotti"]

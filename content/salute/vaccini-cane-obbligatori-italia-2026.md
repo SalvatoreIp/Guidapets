@@ -1,6 +1,6 @@
 ---
 title: "Vaccini cane obbligatori Italia 2026: guida completa"
-date: 2026-04-30T08:14:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Vaccini cane obbligatori Italia 2026: rabbia, cimurro, parvovirus, leptospirosi. Calendario vaccinale cuccioli, costi, documenti e consigli del veterinario."
 categories: ["salute"]

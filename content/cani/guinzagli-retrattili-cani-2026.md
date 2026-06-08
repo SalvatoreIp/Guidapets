@@ -1,6 +1,6 @@
 ---
 title: "Guinzagli retrattili per cani: confronto dei migliori modelli 2026"
-date: 2026-05-06T14:24:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa ai migliori guinzagli retrattili per cani: confronto Flexi, Amazon Basics, PETCUTE. Prezzi, pro, contro e consigli per scegliere il guinzaglio giusto."
 categories: ["cani"]

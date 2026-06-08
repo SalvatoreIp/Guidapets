@@ -1,6 +1,6 @@
 ---
 title: "Addestramento base cucciolo passo passo: guida completa 2026"
-date: 2026-04-27T18:51:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Scopri come addestrare un cucciolo di cane passo passo: basi fondamentali, esercizi, tempi e consigli del veterinario per un cane felice e ben educato."
 categories: ["cani"]

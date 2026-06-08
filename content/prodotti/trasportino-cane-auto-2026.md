@@ -1,6 +1,6 @@
 ---
 title: "Trasportini per cani auto: guida alla sicurezza 2026"
-date: 2026-05-10T09:00:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa ai trasportini per cani auto: confronto AmazonBasics, Petmate, Ferplast, Pro-Flight. Dimensioni, sicurezza, normative e consigli per viaggiare sicuri."
 categories: ["prodotti"]

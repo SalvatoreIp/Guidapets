@@ -1,6 +1,6 @@
 ---
 title: "Come scegliere il gatto perfetto per casa 2026: guida alla scelta"
-date: 2026-04-29T11:51:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa per scegliere il gatto perfetto per casa: razze, personalità, spazi. Confronta 5 migliori razze per appartamento, famiglie e single con prezzi e caratteristiche."
 categories: ["gatti"]

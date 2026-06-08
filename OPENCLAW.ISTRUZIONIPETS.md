@@ -142,3 +142,32 @@ done
 - Dati prezzi: indicare sempre "Prezzo indicativo maggio 2026"
 - MAI dare consigli medici definitivi: usare sempre "consulta il tuo veterinario"
 - MAI creare post di test, prova o placeholder
+## REGOLA DATE / TIMEZONE (OBBLIGATORIA)
+
+Per tutti i post usare SEMPRE la data con timezone locale esplicito `Europe/Rome`, mai il suffisso `Z`.
+
+✅ Corretto:
+```yaml
+date: 2026-06-07T17:50:00+02:00
+```
+
+❌ Sbagliato:
+```yaml
+date: 2026-06-07T15:50:00Z
+```
+
+Motivo:
+- Hugo può interpretare i post con data `Z` come contenuti futuri rispetto al timezone della build.
+- I post future-dated vengono esclusi dalla build normale e non compaiono in `public/` né sul sito.
+- Il deploy può riuscire comunque, ma l'articolo non viene pubblicato.
+
+Regole operative:
+- Usare sempre `+02:00` in ora legale e `+01:00` in ora solare.
+- Mai creare post con orario futuro rispetto all'ora locale del server.
+- Se un post non appare ma con `hugo --minify --buildFuture` compare, il problema è quasi certamente la data/timezone.
+
+Checklist rapida:
+```bash
+grep '^date:' /home/salvatore/guidapets/content/NOMESEZIONE/NOMEFILE.md
+cd /home/salvatore/guidapets && rm -rf public/ && hugo --minify && ls public/NOMESEZIONE/
+```

@@ -1,6 +1,6 @@
 ---
 title: "Furetto come animale domestico: guida completa a cura, alimentazione e costi"
-date: 2026-05-07T08:32:00Z
+date: 2026-06-07T17:50:00+02:00
 draft: false
 description: "Guida completa al furetto come animale domestico: alimentazione corretta, costi, salute e cura. Scopri cosa serve per tenere un furetto felice e sano in casa."
 categories: ["piccoli-animali"]
