@@ -47,49 +47,49 @@ Ecco la classifica aggiornata al 2026 dei migliori cibi secchi per gatti sterili
 <td>€32,90 (2 kg)</td>
 <td>Formulato da veterinari, pellet specifico per masticazione, palatabilità ottima</td>
 <td>Contiene cereali, prezzo medio-alto</td>
-<td><a href="https://www.amazon.it/s?k=Royal+Canin+Sterilised+37+gatti&tag=audiobook-21" target="_blank">Acquista su Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0083CUYW6?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Pro Plan Delicate Sterilised</td>
 <td>€28,50 (2 kg)</td>
 <td>Piccoli croccantini, facile masticazione, ricca di proteine, probiotici</td>
 <td>Odore forte, alcuni gatti rifiutano il cambiamento</td>
-<td><a href="https://www.amazon.it/s?k=Pro+Plan+Delicate+Sterilised+gatti&tag=audiobook-21" target="_blank">Acquista su Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B07SG6W4LS?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Felissimo Sterilised</td>
 <td>€24,90 (2 kg)</td>
 <td>Senza cereali, con omega-3, l-carnitina per il metabolismo, rapporto qualità-prezzo</td>
 <td>Menò conosciuto, disponibilità variabile</td>
-<td><a href="https://www.amazon.it/s?k=Felissimo+Sterilised+gatti&tag=audiobook-21" target="_blank">Acquista su Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B07SG6W4LS?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Whiskas Adult Sterilised</td>
 <td>€15,90 (2 kg)</td>
 <td>Prezzo accessibile, palatabilità alta, vitamine e minerali</td>
 <td>Proteine inferiori, contiene mais e soia</td>
-<td><a href="https://www.amazon.it/s?k=Whiskas+Adult+Sterilised+gatti&tag=audiobook-21" target="_blank">Acquista su Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0BPF53S3W?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Purina Pro Plan Veterinary Diets DM Metabolic</td>
 <td>€54,90 (2 kg)</td>
 <td>Formulazione veterinaria, perdita di peso graduale,临床研究</td>
 <td>Prezzo elevato, disponibile solo online</td>
-<td><a href="https://www.amazon.it/s?k=Purina+Pro+Plan+DM+Metabolic+gatti&tag=audiobook-21" target="_blank">Acquista su Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B012FD3YTI?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Whiskas 7+ Sterilised</td>
 <td>€16,50 (2 kg)</td>
 <td>Per gatti anziani sterilizzati, facilità digestiva, articolazioni</td>
 <td>Per gatti sopra i 7 anni</td>
-<td><a href="https://www.amazon.it/s?k=Whiskas+7+Sterilised+gatti&tag=audiobook-21" target="_blank">Acquista su Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0BPD44987?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Farmina N&D Low Grain Cat Sterilized</td>
 <td>€38,90 (2 kg)</td>
 <td>Grain-free, frutti di bosco, omega-3, proteine alte</td>
 <td>Prezzo medio-alto, odore forte</td>
-<td><a href="https://www.amazon.it/s?k=Farmina+N%26D+Cat+Sterilized&tag=audiobook-21" target="_blank">Acquista su Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B08WKPG6WF?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
