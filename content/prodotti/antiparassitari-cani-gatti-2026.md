@@ -56,12 +56,12 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **[Acquista su Amazon](https://www.amazon.it/dp/B071FJWXF4?tag=audiobook-21)**
 
 #### 2. **Simparica Trio (Compresse)**
-- **Prezzo indicativo aprile 2026:** €25-35 (1 compressa)
+- **Prezzo indicativo aprile 2026:** €33,13
 - **Spettro:** Pulci, zecche, cuore, tosa, anchilostomi
 - **Durata:** 1 mese
 - **Pro:** 4 in 1, azione rapida (2 ore)
 - **Contro:** Costo mensile elevato
-- **[Acquista su Amazon](https://www.amazon.it/s?k=simparica+trio+cane&tag=audiobook-21)**
+- **[Acquista su Amazon](https://www.amazon.it/dp/B0BSL8VZ1M?tag=audiobook-21)**
 
 #### 3. **Advantix II (Spot-on)**
 - **Prezzo indicativo aprile 2026:** €20-30 (3 pipette)

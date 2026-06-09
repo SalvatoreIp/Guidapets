@@ -40,35 +40,35 @@ cover:
 <td>89,90 euro (11kg)</td>
 <td>85% carne fresca, grain-free, proteine complete</td>
 <td>Prezzo elevato, troppo proteico per anziani</td>
-<td><a href="https://amzn.to/3XyZ123" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0DJNMRD7S?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Royal Canin Medium Adult</td>
 <td>54,90 euro (12kg)</td>
 <td>Formula bilanciata, palatabilità ottima, veterinari raccomandato</td>
 <td>Contiene cereali, proteine non elevate</td>
-<td><a href="https://amzn.to/3AbC456" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0DK4Y2YP3?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Acana Grasslands</td>
 <td>79,90 euro (11kg)</td>
 <td>Carne di agnello e manzo, grain-free, ricca di nutrienti</td>
 <td>Odore forte, alcuni cani rifiutano il cambiamento</td>
-<td><a href="https://amzn.to/3DeF789" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0DJNMRD7S?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Pro Plan Optimbalance</td>
 <td>49,90 euro (12kg)</td>
 <td>Prezzo accessibile, probiotici, formulato da veterinari</td>
 <td>Contiene mais e soia, proteine inferiori</td>
-<td><a href="https://amzn.to/3GhI012" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0DK4Y2YP3?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td>Farmina N&D Low Grain</td>
 <td>69,90 euro (12kg)</td>
 <td>Grain-free, frutti di bosco, omega-3, gusto eccezionale</td>
 <td>Costo medio-alto, disponibile solo online</td>
-<td><a href="https://amzn.to/3JkL345" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0DK4Y2YP3?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>

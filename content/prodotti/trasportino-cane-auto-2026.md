@@ -70,14 +70,14 @@ Il **trasportino per cani** è un contenitore specifico progettato per trasporta
 <td>€30-45</td>
 <td>Porta trasparente antiurto, aerazione laterale</td>
 <td>Plastica meno resistente, solo per cani piccoli</td>
-<td><a href="https://www.amazon.it/s?k=Ferplast+Jet+10&tag=audiobook-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B07ZDNML49?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Pro-Flight Elite</strong><br><small>4 porte, rinforzato, fino a 10 kg</small></td>
 <td>€55-75</td>
 <td>Massima aerazione, porte anteriori/superiori, robusto</td>
 <td>Prezzo elevato, pesante</td>
-<td><a href="https://www.amazon.it/s?k=Pro-Flight+Elite&tag=audiobook-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B01MFBNN9J?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -100,28 +100,28 @@ Il **trasportino per cani** è un contenitore specifico progettato per trasporta
 <td>€20-30</td>
 <td>Estremamente economico, pieghevole, cintura inclusa</td>
 <td>Menò robusto, non IATA approvato</td>
-<td><a href="https://www.amazon.it/s?k=AmazonBasics+Soft+Carrier&tag=audiobook-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0D1CB5CSL?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Petmate Sky Kennel Soft</strong><br><small>Tessuto resistente, 2 porte, fino a 9 kg</small></td>
 <td>€35-50</td>
 <td>Porte multiple, tessuti resistenti, ventilazione</td>
 <td>Prezzo medio, non IATA</td>
-<td><a href="https://www.amazon.it/s?k=Petmate+Sky+Kennel+Soft&tag=audiobook-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B003E77OEG?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Ferplast Doggy Travel Bag</strong><br><small>Morbido, cuscino incluso, fino a 10 kg</small></td>
 <td>€30-45</td>
 <td>Cuscino imbottito, tasca accessorio, elegante</td>
 <td>Menò robusto, non IATA</td>
-<td><a href="https://www.amazon.it/s?k=Ferplast+Doggy+Travel+Bag&tag=audiobook-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B00L4DRC5S?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>MidWest Quiet Time</strong><br><small>Mesh 3D, cintura, fino a 12 kg</small></td>
 <td>€40-55</td>
 <td>Aerazione ottimale, cintura sicurezza, robusto</td>
 <td>Prezzo elevato, pieghevole limitato</td>
-<td><a href="https://www.amazon.it/s?k=MidWest+Quiet+Time&tag=audiobook-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B0C3FBMDQM?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
@@ -144,14 +144,14 @@ Il **trasportino per cani** è un contenitore specifico progettato per trasporta
 <td>€80-120</td>
 <td>Massima robustezza, aerazione totale, duraturo</td>
 <td>Pesante (8-12 kg), ingombrante</td>
-<td><a href="https://www.amazon.it/s?k=Pro-Flight+Kennel+Metal&tag=audiobook-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B00NEF20J2?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Petmate Metal Kennel</strong><br><small>Acciaio rinforzato, 2 porte, fino a 30 kg</small></td>
 <td>€70-100</td>
 <td>Ottimo rapporto qualità-prezzo, robusto</td>
 <td>Non IATA, richiede fissaggio auto</td>
-<td><a href="https://www.amazon.it/s?k=Petmate+Metal+Kennel&tag=audiobook-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/dp/B00NEF20J2?tag=audiobook-21" target="_blank">Amazon</a></td>
 </tr>
 </tbody>
 </table>
