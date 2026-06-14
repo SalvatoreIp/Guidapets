@@ -113,7 +113,11 @@ Ecco la classifica aggiornata al 2026 delle migliori cuccie, basata su qualità,
 - ❌ Prezzo elevato per le dimensioni piccole
 - ❌ Peluche trattiene peli e sporco
 - ❌ Non per masticatori (si strappa)
-[Amazon](https://www.amazon.it/dp/B00HZAQ3TK?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B00HZAQ3TK?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Cani anziani, razze con problemi articolari, interni eleganti.
 
@@ -168,7 +172,11 @@ Ecco la classifica aggiornata al 2026 delle migliori cuccie, basata su qualità,
 - ❌ Bordi si appiattiscono dopo 6-12 mesi
 - ❌ Peluche trattiene molto pelo
 - ❌ Non impermeabile
-[Amazon](https://www.amazon.it/dp/B08B45TPV3?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B08B45TPV3?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Cani che amano annidarsi, budget medio, interni moderni.
 
@@ -223,7 +231,11 @@ Ecco la classifica aggiornata al 2026 delle migliori cuccie, basata su qualità,
 - ❌ Prezzo elevato
 - ❌ Meno morbido di opzioni peluche
 - ❌ Solo 2 dimensioni per taglia
-[Amazon](https://www.amazon.it/dp/B0CLB536KQ?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0CLB536KQ?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Cani attivi, uso esterno occasionale, chi cerca durabilità.
 
@@ -278,7 +290,11 @@ Ecco la classifica aggiornata al 2026 delle migliori cuccie, basata su qualità,
 - ❌ Meno confortevole (schiuma base)
 - ❌ Non per uso fuori gabbia
 - ❌ Si schiaccia dopo 6 mesi
-[Amazon](https://www.amazon.it/dp/B09G49LXL2?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B09G49LXL2?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Uso in gabbia, budget limitato, cani che dormono in transportino.
 
@@ -333,7 +349,11 @@ Ecco la classifica aggiornata al 2026 delle migliori cuccie, basata su qualità,
 - ❌ Richiede manutenzione annuale (verniciatura)
 - ❌ Occupa spazio esterno
 - ❌ Per cani piccoli/medi (max 25kg)
-[Amazon](https://www.amazon.it/dp/B0F9KD4C7X?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0F9KD4C7X?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Cani che vivono fuori, giardini, chi cerca un aspetto naturale.
 
@@ -511,7 +531,11 @@ La cuccia è un **investimento nel benessere** del tuo cane. Con un costo di €
 
 **Importante:** Qualunque cuccia tu scelga, **posizionarla correttamente** e **mantienila pulita**. Il risultato? Un cane riposato, felice e sano!
 
-[Amazon](https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 ---
 
