@@ -92,7 +92,11 @@ Ecco la classifica aggiornata al 2026 dei migliori cibi umidi per gatti, basata 
 - ❌ Contiene cereali (riso, mais)
 - ❌ Prezzo medio-alto
 - ❌ Proteine non al 100% carne (include derivati)
-[Amazon](https://www.amazon.it/dp/B084T5BY8T?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B084T5BY8T?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti sterilizzati che mangiano volentieri, proprietari che cercano un brand affidabile.
 
@@ -147,7 +151,11 @@ Ecco la classifica aggiornata al 2026 dei migliori cibi umidi per gatti, basata 
 - ❌ Prezzo elevato (tra i più costosi)
 - ❌ Alcuni gatti rifiutano il gusto
 - ❌ Contiene mais (allergene potenziale)
-[Amazon](https://www.amazon.it/dp/B01F62SACG?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B01F62SACG?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti con problemi di peso, proprietari che cercano qualità veterinaria.
 
@@ -202,7 +210,11 @@ Ecco la classifica aggiornata al 2026 dei migliori cibi umidi per gatti, basata 
 - ❌ Alcuni gatti non gradiscono il gusto
 - ❌ Disponibilità variabile (spesso fuori stock)
 - ❌ Contiene cereali (riso)
-[Amazon](https://www.amazon.it/dp/B0G549QJ3M?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0G549QJ3M?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti sensibili, chi cerca un buon rapporto qualità-prezzo.
 
@@ -257,7 +269,11 @@ Ecco la classifica aggiornata al 2026 dei migliori cibi umidi per gatti, basata 
 - ❌ Prezzo elevato
 - ❌ Alcuni gatti non amano il gusto forte
 - ❌ Difficile da trovare in negozi tradizionali
-[Amazon](https://www.amazon.it/dp/B08WKPG6WF?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B08WKPG6WF?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti con allergie, proprietari che cercano qualità premium senza cereali.
 
@@ -312,7 +328,11 @@ Ecco la classifica aggiornata al 2026 dei migliori cibi umidi per gatti, basata 
 - ❌ Alcuni gatti non gradiscono il gusto
 - ❌ Packaging a volte danneggiato
 - ❌ Variazione gusto tra lotti
-[Amazon](https://www.amazon.it/dp/B08WCDNGF4?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B08WCDNGF4?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti adulti, chi cerca un'opzione grain-free economica.
 
@@ -426,7 +446,11 @@ Il cibo umido è **un investimento nella salute** del tuo gatto. Con un costo di
 
 Qualunque sia la scelta, **il cibo umido è la scelta migliore** per la salute del tuo gatto!
 
-[Amazon](https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 ---
 

@@ -53,7 +53,11 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 8 mesi
 - **Pro:** Protezione continua, idrorepellente
 - **Contro:** Irritazione cutanea in cani sensibili
-- **[Acquista su Amazon](https://www.amazon.it/dp/B071FJWXF4?tag=audiobook-21)**
+- **
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B071FJWXF4?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+**
 
 #### 2. **Simparica Trio (Compresse)**
 - **Prezzo indicativo aprile 2026:** €33,13
@@ -61,7 +65,11 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 1 mese
 - **Pro:** 4 in 1, azione rapida (2 ore)
 - **Contro:** Costo mensile elevato
-- **[Acquista su Amazon](https://www.amazon.it/dp/B0BSL8VZ1M?tag=audiobook-21)**
+- **
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0BSL8VZ1M?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+**
 
 #### 3. **Advantix II (Spot-on)**
 - **Prezzo indicativo aprile 2026:** €20-30 (3 pipette)
@@ -69,7 +77,11 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 4 settimane
 - **Pro:** Effetto repellente, economico
 - **Contro:** **TOSCO PER I GATTI**, non usare con gatti
-- **[Acquista su Amazon](https://www.amazon.it/dp/B007RFQDNY?tag=audiobook-21)**
+- **
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B007RFQDNY?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+**
 
 #### 4. **NexGard Spectra (Compresse)**
 - **Prezzo indicativo aprile 2026:** €31,86
@@ -77,7 +89,11 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 1 mese
 - **Pro:** Buono rapporto qualità-prezzo, gusto carne
 - **Contro:** Deve assumere mensilmente
-- **[Acquista su Amazon](https://www.amazon.it/dp/B0BSL8VZ1M?tag=audiobook-21)**
+- **
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0BSL8VZ1M?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+**
 
 ### **Per GATTI**
 
@@ -87,7 +103,11 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 7 mesi
 - **Pro:** Sicuro per gatti, lunga durata
 - **Contro:** Non efficace contro flebotomi
-- **[Acquista su Amazon](https://www.amazon.it/dp/B00IA29Z9M?tag=audiobook-21)**
+- **
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B00IA29Z9M?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+**
 
 #### 2. **Frontline Spot-on (Pipette)**
 - **Prezzo indicativo aprile 2026:** €15-25 (3 pipette)
@@ -95,7 +115,11 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 4 settimane
 - **Pro:** Sicuro per gatti e cuccioli, economico
 - **Contro:** Nessuno effetto repellente
-- **[Acquista su Amazon](https://www.amazon.it/dp/B00IIPUR1Q?tag=audiobook-21)**
+- **
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B00IIPUR1Q?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+**
 
 #### 3. **Advantage Multi (Spot-on)**
 - **Prezzo indicativo aprile 2026:** €20-30 (3 pipette)
@@ -103,7 +127,11 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 4 settimane
 - **Pro:** Multispettro, sicuro per gatti
 - **Contro:** Costo mensile
-- **[Acquista su Amazon](https://www.amazon.it/dp/B07MV4TMS9?tag=audiobook-21)**
+- **
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B07MV4TMS9?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+**
 
 #### 4. **Bravecto per Gatti (Compresse)**
 - **Prezzo indicativo aprile 2026:** €25,85
@@ -111,7 +139,11 @@ I parassiti esterni non sono solo fastidiosi: possono trasmettere malattie gravi
 - **Durata:** 3 mesi
 - **Pro:** Solo 3 volte l'anno, azione rapida
 - **Contro:** Costo iniziale elevato
-- **[Acquista su Amazon](https://www.amazon.it/dp/B0CTKLD2MN?tag=audiobook-21)**
+- **
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0CTKLD2MN?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+**
 
 ## Tabella confronto prezzi annuali (cane medio 20 kg)
 

@@ -83,7 +83,11 @@ Ecco la classifica aggiornata al 2026 delle migliori lettiere autodetergenti, ba
 - Prezzo elevato
 - Compatibile solo con sabbia agglomerante
 - Cassetto da svuotare frequentemente (se multi-gatto)
-[Amazon](https://www.amazon.it/dp/B0CFTCG4B8?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0CFTCG4B8?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Proprietari di un gatto medio-piccolo che vogliono la soluzione top di gamma.
 
@@ -138,7 +142,11 @@ Ecco la classifica aggiornata al 2026 delle migliori lettiere autodetergenti, ba
 - Prezzo molto elevato
 - Solo sabbia agglomerante
 - Dimensioni grandi (occupa spazio)
-[Amazon](https://www.amazon.it/dp/B0CFTCG4B8?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0CFTCG4B8?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Proprietari con gatti grandi o multi-gatto che vogliono la massima capacità.
 
@@ -193,7 +201,11 @@ Ecco la classifica aggiornata al 2026 delle migliori lettiere autodetergenti, ba
 - Installazione complessa (richiede acqua e scarico)
 - Costo granulati aggiuntivi dopo 6 mesi
 - Più grande e rumorosa
-[Amazon](https://www.amazon.it/dp/B06XJ3WSSW?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B06XJ3WSSW?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti multipli, proprietari che non vogliono svuotare cassetto, case con allacciamento acqua.
 
@@ -248,7 +260,11 @@ Ecco la classifica aggiornata al 2026 delle migliori lettiere autodetergenti, ba
 - Solo travetina (non agglomerante)
 - Nessuna funzionalità smart
 - Meno capiente
-[Amazon](https://www.amazon.it/dp/B097PYYFZ1?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B097PYYFZ1?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Proprietari con budget limitato, gatti piccoli, chi non vuole tecnologia.
 
@@ -303,7 +319,11 @@ Ecco la classifica aggiornata al 2026 delle migliori lettiere autodetergenti, ba
 - Meno capiente di Litter-Robot
 - Richiede abbonamento app avanzata (€9,99/mese)
 - Solo sabbia agglomerante
-[Amazon](https://www.amazon.it/dp/B0FG2W4DC2?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0FG2W4DC2?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Proprietari che vogliono monitorare la salute del gatto oltre alla pulizia.
 
@@ -404,7 +424,11 @@ La lettiera autodetergente è **un investimento serio** che migliora la qualità
 
 Qualunque sia la scelta, **risparmierai tempo, odori e stress**. Il tuo gatto merita una lettiera sempre pulita, e tu meriti più tempo libero!
 
-[Amazon](https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 ---
 

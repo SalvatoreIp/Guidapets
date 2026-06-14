@@ -93,7 +93,11 @@ Ecco la classifica aggiornata al 2026 dei migliori tiragraffi, basata su recensi
 - ❌ Prezzo elevato
 - ❌ Solo per gatti piccoli/medi (<6kg)
 - ❌ Non ha nascondigli/piattaforme
-[Amazon](https://www.amazon.it/dp/B0160VM4LU?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0160VM4LU?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Appartamenti moderni, gatti piccoli, chi cerca un design elegante.
 
@@ -149,7 +153,11 @@ Ecco la classifica aggiornata al 2026 dei migliori tiragraffi, basata su recensi
 - ❌ Complesso da pulire
 - ❌ Occupa molto spazio
 - ❌ Prezzo alto
-[Amazon](https://www.amazon.it/dp/B004RSVTJM?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B004RSVTJM?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti multipli, case grandi, gatti attivi che amano arrampicarsi.
 
@@ -204,7 +212,11 @@ Ecco la classifica aggiornata al 2026 dei migliori tiragraffi, basata su recensi
 - ❌ Velluto trattiene peli
 - ❌ Montaggio laborioso
 - ❌ Non adatto a gatti >6kg
-[Amazon](https://www.amazon.it/dp/B08XTMNMMZ?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B08XTMNMMZ?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Chi cerca un ottimo rapporto qualità-prezzo, gatti timidi che amano nascondersi.
 
@@ -259,7 +271,11 @@ Ecco la classifica aggiornata al 2026 dei migliori tiragraffi, basata su recensi
 - ❌ Solo verticale (no scala/piattaforme)
 - ❌ Design semplice
 - ❌ Solo per 1 gatto
-[Amazon](https://www.amazon.it/dp/B07G3GVBV7?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B07G3GVBV7?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Appartamenti piccoli, gatti singoli, budget limitato.
 
@@ -314,7 +330,11 @@ Ecco la classifica aggiornata al 2026 dei migliori tiragraffi, basata su recensi
 - ❌ Velluto si sporca
 - ❌ Montaggio richiede precisione
 - ❌ Non per gatti molto attivi
-[Amazon](https://www.amazon.it/dp/B077G4BMJT?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B077G4BMJT?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Chi cerca design nordico, gatti che amano le piattaforme con rete.
 
@@ -460,7 +480,11 @@ Il tiragraffi è un **investimento necessario** per la salute del gatto e la pro
 
 **Importante:** Qualunque tiragraffi tu scelga, **posizionalo strategicamente** e **adatta il gatto gradualmente**. Il risultato? Un gatto felice e mobili intatti!
 
-[Amazon](https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 ---
 

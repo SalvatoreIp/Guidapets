@@ -100,7 +100,11 @@ Ecco la classifica aggiornata al 2026 dei migliori fontanelle d'acqua automatich
 - ❌ Plastica (alcuni gatti preferiscono acciaio)
 - ❌ Filtri costosi nel tempo (€15-€20/mese)
 - ❌ Lavaggio settimanale necessario
-[Amazon](https://www.amazon.it/dp/B004MXPILM?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B004MXPILM?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti che amano bere molto, case con gatti multipli, chi vuole massima autonomia.
 
@@ -156,7 +160,11 @@ Ecco la classifica aggiornata al 2026 dei migliori fontanelle d'acqua automatich
 - ❌ Difficile da pulire (parti fisse)
 - ❌ Plastica si graffia facilmente
 - ❌ Pompa meno potente (sorgente più bassa)
-[Amazon](https://www.amazon.it/dp/B0146QXOB0?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0146QXOB0?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Appartamenti piccoli, gatti solitari, chi cerca un design carino.
 
@@ -211,7 +219,11 @@ Ecco la classifica aggiornata al 2026 dei migliori fontanelle d'acqua automatich
 - ❌ Capacità piccola (2,4L)
 - ❌ Solo 1 gatto (capacità limitata)
 - ❌ Pompa base (sorgente meno divertente)
-[Amazon](https://www.amazon.it/dp/B0D9BPB2V5?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0D9BPB2V5?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti solitari, chi cerca il miglior rapporto qualità-prezzo, gatti sensibili al rumore.
 
@@ -266,7 +278,11 @@ Ecco la classifica aggiornata al 2026 dei migliori fontanelle d'acqua automatich
 - ❌ Un po' rumorosa (pompa potente)
 - ❌ Grande (occupa spazio)
 - ❌ Plastica in parti (non tutto inox)
-[Amazon](https://www.amazon.it/dp/B0G5PM19RG?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0G5PM19RG?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Gatti multipli, case grandi, chi vuole massima autonomia e flusso regolabile.
 
@@ -322,7 +338,11 @@ Ecco la classifica aggiornata al 2026 dei migliori fontanelle d'acqua automatich
 - ❌ Prezzo elevato
 - ❌ Solo 3,8L (media capacità)
 - ❌ Complessa da pulire (più parti)
-[Amazon](https://www.amazon.it/dp/B0DPX61N3C?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B0DPX61N3C?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 **Perfetto per:** Chi vuole monitorare l'idratazione del gatto, tech-lovers, gatti con problemi renali.
 
@@ -505,7 +525,11 @@ La fontanella d'acqua è un **investimento nella salute** del tuo gatto. Con un 
 
 **Importante:** Qualunque fontanella tu scelga, **mantienila pulita** e **cambia l'acqua ogni giorno**. Il risultato? Un gatto idratato e più sano!
 
-[Amazon](https://www.amazon.it/dp/1096052067?tag=audiobook-21)
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/1096052067?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+</div>
+
 
 ---
 
