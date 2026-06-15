@@ -58,3 +58,25 @@ SEMPRE anteporre l'animale (dog pet / cat pet) per ancorare il contesto.
 
 Se la prima keyword non dà un animale, prova in cascata:
 [animale] pet [contesto] → [animale] [contesto] → cute [animale]
+
+## PIN PINTEREST (dopo ogni articolo pubblicato)
+
+Dopo aver pubblicato e deployato un articolo, genera SEMPRE il pacchetto Pinterest:
+
+1. Genera l'immagine pin verticale:
+   python3 /home/salvatore/genera-pin.py "/home/salvatore/guidapets/static/immagini/SLUG.jpg" "TITOLO PIN ACCATTIVANTE" "/home/salvatore/.openclaw/media/pins/SLUG-pin.jpg" "guidapets.com"
+
+2. Invia il pin su Telegram a Salvatore (ID 6101645709) insieme a un messaggio con:
+   📌 PIN PRONTO
+   Titolo: [titolo accattivante max 60 caratteri con 1 emoji]
+   Descrizione: [2 frasi con keyword italiane + 5 hashtag pertinenti]
+   Link: https://guidapets.com/[sezione]/[slug]/
+   Bacheca: [Cani / Gatti / Animali Domestici a seconda del tema]
+
+REGOLE TITOLO PIN:
+- Deve incuriosire o promettere un beneficio
+- Esempi: "Perché il tuo gatto fa questo? 🐱" / "5 errori che fai col tuo cane 🐶"
+
+REGOLE DESCRIZIONE PIN:
+- 2 frasi: la prima cattura, la seconda invita a scoprire
+- 5 hashtag italiani pertinenti (es. #cani #curiositàcani #animalidomestici)
