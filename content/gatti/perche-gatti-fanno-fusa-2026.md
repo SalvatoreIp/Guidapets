@@ -6,7 +6,7 @@ description: "Perché i gatti fanno le fusa? Non solo felicità: medicina, stres
 categories: ["gatti"]
 tags: ["gatti", "comportamento", "fusa", "scienza", "salute", "2026", "curiosita"]
 cover:
-  image: "/immagini/perche-gatti-fanno-pusa-2026.jpg"
+  image: "/immagini/perche-gatti-fanno-fusa-2026.jpg"
   alt: "Gatto felice che fa le fusa"
 ---
 
