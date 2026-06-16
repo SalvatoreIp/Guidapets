@@ -89,7 +89,7 @@ Ecco la classifica aggiornata al 2026 dei migliori modelli, basata su recensioni
 - ❌ Non per cucciolini che masticano
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CV5YDLT2?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=tappetino+refrigerante+cani+gatti&tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -514,7 +514,7 @@ Il tappetino refrigerante è un **investimento nella salute** del tuo animale. C
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=tappetino+refrigerante+cani+gatti&tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
