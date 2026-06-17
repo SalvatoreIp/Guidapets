@@ -80,3 +80,19 @@ REGOLE TITOLO PIN:
 REGOLE DESCRIZIONE PIN:
 - 2 frasi: la prima cattura, la seconda invita a scoprire
 - 5 hashtag italiani pertinenti (es. #cani #curiositàcani #animalidomestici)
+
+## TITOLI PIN PINTEREST — REGOLA AGGIORNATA
+I pin con titoli "pubblicitari" non convertono. Usa sempre hook emotivi o basati su problemi reali.
+
+SCHEMA TITOLO CHE FUNZIONA:
+- Problema specifico: "Il tuo cane anziano fatica ad alzarsi? Ecco perché"
+- Curiosità: "Perché i gatti fanno le fusa anche quando sono malati?"
+- Beneficio concreto: "Come ridurre i dolori articolari del tuo cane anziano"
+- Domanda diretta: "La lettiera autopulente vale davvero la pena?"
+
+TITOLI DA EVITARE:
+- "I migliori tappetini refrigeranti 2026" → troppo pubblicitario
+- "Antiparassitari cani e gatti: guida completa" → anonimo
+- Qualsiasi titolo che sembra un catalogo o una lista prodotti
+
+REGOLA: il titolo deve far pensare "questo parla di ME e del MIO animale", non "questo vuole vendermi qualcosa".
