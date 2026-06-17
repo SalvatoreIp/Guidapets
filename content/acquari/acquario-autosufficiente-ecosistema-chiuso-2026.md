@@ -6,7 +6,7 @@ description: "Acquario autosufficiente 2026: come creare un ecosistema acquatico
 categories: ["acquari"]
 tags: ["acquari", "ecosistema", "autosufficiente", "biosfera", "piante", "pesci", "chiuso", "2026"]
 cover:
-  image: "/immagini/acquario-autosufficiente-2026.jpg"
+  image: "/immagini/acquario-autosufficiente-ecosistema-chiuso-2026.jpg"
   alt: "Biosfera acquatica chiusa con gamberetti e piante"
 ---
 
