@@ -1,6 +1,5 @@
 baseURL = "https://guidapets.com/"
 languageCode = "it-IT"
-defaultContentLanguage = "it"
 title = "GuidaPets"
 theme = "PaperMod"
 
