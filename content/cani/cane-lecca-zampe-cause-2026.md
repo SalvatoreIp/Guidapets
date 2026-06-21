@@ -260,7 +260,11 @@ Pratiche dopo ogni passeggiata: puliscono tra le dita senza risciacquo e rimuovo
 
 ### **3. Integratori per allergie e pelle**
 
-Gli integratori a base di **Omega-3, biotina e vitamina E** riducono l'infiammazione cutanea dall'interno e rinforzano la barriera della pelle. Vanno dati ogni giorno con il cibo: i primi risultati si vedono dopo 4-6 settimane di uso costante. (Trovi il prodotto consigliato più in alto, nella sezione allergie.)
+Gli integratori a base di **Omega-3, biotina e vitamina E** riducono l'infiammazione cutanea dall'interno e rinforzano la barriera della pelle. Vanno dati ogni giorno con il cibo: i primi risultati si vedono dopo 4-6 settimane di uso costante.
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=integratore+pelle+pelo+cane+biotina&tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi integratori pelle e pelo su Amazon</a>
+</div>
 
 
 ---
