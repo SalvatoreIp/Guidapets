@@ -196,9 +196,9 @@ Quando noti questi segnali, non aspettare. Il leccamento compulsivo può trasfor
 
 **Controlla anche:**
 - **Orecchie:** Prurito? Odore? Rossore?
-- **Artro:** Prurito? Arrossamento?
+- **Inguine:** Prurito? Arrossamento?
 - **Pancia:** Prurito? Arrossamento?
-- **Faciale:** Prurito? Arrossamento?
+- **Muso:** Prurito? Arrossamento?
 
 Se il prurito è generalizzato, probabilmente è **allergia**.
 Se è localizzato alle zampe, potrebbe essere **contatto** o **lesione locale**.
@@ -238,24 +238,7 @@ Se è localizzato alle zampe, potrebbe essere **contatto** o **lesione locale**.
 
 ### **1. Shampoo lenitivi per zampe**
 
-**Perché funzionano:**
-- **Azione lenitiva:** Calma la pelle irritata
-- **Proprietà antibatteriche:** Riduce infezioni
-- **Ripristina il pH:** Mantiene la barriera cutanea
-- **Riduce il prurito:** Meno leccamento
-
-**Cosa cercare:**
-- **Senza solfati:** Non secca la pelle
-- **Con avena colloidale:** Lenitivo naturale
-- **Con tea tree oil:** Antimicrobico naturale
-- **Con aloe vera:** Lenitivo e idratante
-
-**Come usare:**
-1. **Lava le zampe** ogni 2-3 giorni
-2. **Lascia agire** 3-5 minuti
-3. **Sciacqua bene** (nessun residuo)
-4. **Asciuga** perfettamente (umidità = infezioni)
-
+Uno shampoo specifico con **avena colloidale e aloe vera** calma la pelle irritata, riduce le infezioni e allevia il prurito. Cerca formule **senza solfati**, da usare ogni 2-3 giorni asciugando bene tra le dita.
 
 <div class="cta-box">
   <a href="https://www.amazon.it/dp/B0DTVZP23V?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
@@ -266,24 +249,7 @@ Se è localizzato alle zampe, potrebbe essere **contatto** o **lesione locale**.
 
 ### **2. Salviette umidificate per zampe**
 
-**Perché funzionano:**
-- **Pulizia immediata:** Dopo ogni passeggiata
-- **Senza risciacquo:** Pratico e veloce
-- **Idratanti:** Mantengono la pelle morbida
-- **Lenitive:** Calmano irritazione
-
-**Cosa cercare:**
-- **Senza alcol:** Non irrita la pelle
-- **Con aloe o camomilla:** Lenitivo naturale
-- **Antibatteriche:** Riduce batteri e lieviti
-- **Per uso quotidiano:** Sicure per pulizia frequente
-
-**Come usare:**
-1. **Dopo ogni passeggiata**
-2. **Passa sulla zampa** (tra le dita incluso)
-3. **Asciuga leggermente** con asciugamano
-4. **Non lasciare umido**
-
+Pratiche dopo ogni passeggiata: puliscono tra le dita senza risciacquo e rimuovono pollini e allergeni. Scegli quelle **senza alcol, con aloe o camomilla**, sicure per l'uso quotidiano.
 
 <div class="cta-box">
   <a href="https://www.amazon.it/dp/B0C9M16LJ5?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
@@ -294,47 +260,14 @@ Se è localizzato alle zampe, potrebbe essere **contatto** o **lesione locale**.
 
 ### **3. Integratori per allergie e pelle**
 
-**Perché funzionano:**
-- **Omega-3 e Omega-6:** Riducono infiammazione
-- **Biotina:** Supporta salute della pelle
-- **Vitamina E:** Antiossidante naturale
-- **Probiotici:** Migliora microbioma intestinale (collega pelle-intestino)
-
-**Cosa cercare:**
-- **Omega-3 da pesce:** Salmone o sardina
-- **Dosi appropriate:** In base al peso del cane
-- **Senza additivi:** Ingredienti puri
-- **Approvato veterinari:** Sicurezza garantita
-
-**Come usare:**
-1. **Con il cibo** (migliore assorbimento)
-2. **Ogni giorno** (risultati in 4-6 settimane)
-3. **Costante** (non interrompere)
-4. **Monitora i risultati** (registra i miglioramenti)
+Gli integratori a base di **Omega-3, biotina e vitamina E** riducono l'infiammazione cutanea dall'interno e rinforzano la barriera della pelle. Vanno dati ogni giorno con il cibo: i primi risultati si vedono dopo 4-6 settimane di uso costante. (Trovi il prodotto consigliato più in alto, nella sezione allergie.)
 
 
 ---
 
 ### **4. Antiparassitari completi**
 
-**Perché funzionano:**
-- **Prevenzione:** Evita infestazioni
-- **Ampio spettro:** Protegge da pulci, zecche, acari
-- **Trattamento:** Elimina parassiti esistenti
-- **Sicuro:** Formule testate per cani
-
-**Cosa cercare:**
-- **Tutto-in-uno:** Pulci + zecche + parassiti
-- **Durata 1 mese:** Copertura mensile completa
-- **Per peso specifico:** Dosaggio appropriato
-- **Preferibilmente topico:** Più efficace
-
-**Come usare:**
-1. **Mensile:** Ogni 30 giorni (senza eccezioni)
-2. **Alternare le zone:** Mai sulla stessa zona sempre
-3. **Evitare bagni:** Non bagnare 48h dopo applicazione
-4. **Controlla la zecche:** Ispezione post-applicazione
-
+Se la causa sono pulci, zecche o acari, serve un antiparassitario **tutto-in-uno** ad applicazione mensile, dosato sul peso del cane. Va applicato ogni 30 giorni senza saltare, evitando bagni nelle 48 ore successive.
 
 <div class="cta-box">
   <a href="https://www.amazon.it/dp/B01M6Y0K0A?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
@@ -343,26 +276,9 @@ Se è localizzato alle zampe, potrebbe essere **contatto** o **lesione locale**.
 
 ---
 
-### **5. Diffusori di feromoni calmanti (Adaptil)**
+### **5. Diffusori di feromoni calmanti**
 
-**Perché funzionano:**
-- **Copiano feromoni materni:** Rassicurano il cane
-- **Riducono ansia:** Calma il sistema nervoso
-- **Senza sonniferi:** Non rende il cane assonnato
-- **Sicuri:** Nessun effetto collaterale noto
-
-**Cosa cercare:**
-- **Diffusore elettrico:** Per tutta la casa
-- **Collare:** Per protezione portatile
-- **Spray:** Per applicazione diretta (auto, trasportino)
-- **Senza profumo:** Per cani sensibili
-
-**Come usare:**
-1. **Accendi il diffusore** 24h prima (se possibile)
-2. **Posiziona nella zona** dove il cane passa più tempo
-3. **Cambia ogni 4-6 settimane:** Effetto diminuisce col tempo
-4. **Combina con altri:** Usare insieme a routine calmante
-
+Se il leccamento nasce da ansia o stress, un diffusore di **feromoni calmanti** riproduce quelli materni e rassicura il cane senza intontirlo. Si posiziona nella zona dove passa più tempo e va sostituito ogni 4-6 settimane.
 
 <div class="cta-box">
   <a href="https://www.amazon.it/dp/B01CG8D8JI?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
