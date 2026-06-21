@@ -38,7 +38,7 @@ Quando noti questi segnali, non aspettare. Il leccamento compulsivo può trasfor
 - **Proteine sensibili:** Manzo, pollo, latticini
 - **Additivi:** Coloranti, conservanti
 - **Cereali:** Mais, grano, soia
-- **Sintomi:** Prurito generalizzato, zanne rosse, diarrea
+- **Sintomi:** Prurito generalizzato, zampe rosse, diarrea
 
 **Allergie ambientali:**
 - **Pollini:** Primavera ed estate
@@ -50,6 +50,12 @@ Quando noti questi segnali, non aspettare. Il leccamento compulsivo può trasfor
 - **Detergenti:** Detergente per pavimenti
 - **Tappeti:** Fibre sintetiche
 - **Erba:** Pesticidi nel giardino
+
+---
+
+<div class="cta-box">
+  <a href="https://www.amazon.it/dp/B084JDPWHQ?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi integratore Omega-3 su Amazon</a>
+</div>
 
 ---
 
@@ -67,7 +73,7 @@ Quando noti questi segnali, non aspettare. Il leccamento compulsivo può trasfor
 - **Batterica:** Infezioni da stafilococco
 - **Odore forte:** "Fetido piedi" caratteristico
 
-**Interdigitali cysts:**
+**Cisti interdigitali:**
 - **Cisti tra le dita:** Gonfiore doloroso
 - **Pustole:** Piccole bolle piene di pus
 - **Dolore:** Il cane zoppica
@@ -102,7 +108,7 @@ Quando noti questi segnali, non aspettare. Il leccamento compulsivo può trasfor
 - **Crea una ferita:** La ferita prude → continua a leccare
 - **Circolo vizioso:** Stress → lecca → ferita → prurito → stress
 
-**Boredom (noia):**
+**Noia:**
 - **Niente attività:** Cani in casa tutto il giorno
 - **Niente stimoli:** Manca esercizio fisico
 - **Leccamento:** Diventa un'attività per passare il tempo
@@ -180,7 +186,7 @@ Quando noti questi segnali, non aspettare. Il leccamento compulsivo può trasfor
 - **Allergia:** Perdita di pelo generalizzata
 
 **Odore forte:**
-- **Yeast:** Odore dolciastro, muffa
+- **Lievito (Yeast):** Odore dolciastro, muffa
 - **Batterica:** Odore pungente, putrido
 - **Infezione:** Odore cattivo persistente
 
@@ -190,7 +196,7 @@ Quando noti questi segnali, non aspettare. Il leccamento compulsivo può trasfor
 
 **Controlla anche:**
 - **Orecchie:** Prurito? Odore? Rossore?
-- **Vento:** Prurito? Arrossamento?
+- **Artro:** Prurito? Arrossamento?
 - **Pancia:** Prurito? Arrossamento?
 - **Faciale:** Prurito? Arrossamento?
 
@@ -305,11 +311,6 @@ Se è localizzato alle zampe, potrebbe essere **contatto** o **lesione locale**.
 2. **Ogni giorno** (risultati in 4-6 settimane)
 3. **Costante** (non interrompere)
 4. **Monitora i risultati** (registra i miglioramenti)
-
-
-<div class="cta-box">
-  <a href="https://www.amazon.it/dp/B084JDPWHQ?tag=audiobook-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
-</div>
 
 
 ---
