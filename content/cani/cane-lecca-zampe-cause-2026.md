@@ -186,7 +186,7 @@ Quando noti questi segnali, non aspettare. Il leccamento compulsivo può trasfor
 - **Allergia:** Perdita di pelo generalizzata
 
 **Odore forte:**
-- **Lievito (Yeast):** Odore dolciastro, muffa
+- **Lievito:** Odore dolciastro, muffa
 - **Batterica:** Odore pungente, putrido
 - **Infezione:** Odore cattivo persistente
 
