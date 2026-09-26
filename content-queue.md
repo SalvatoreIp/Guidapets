@@ -9,6 +9,8 @@ Uso interno del cron giornaliero (non è un articolo). Formato:
 
 ## Pubblicati
 
+- [x] Il gatto beve poco: cause, quanto dovrebbe bere e cosa fare | salute | gatto-beve-poco-cause-cosa-fare-2026 | "gatto beve poco" / "gatto non beve" | 2026-09-26, scelta senza dati di volume. Angolo salute (non prodotto) per non duplicare la guida alle fontanelle, a cui rimanda.
+
 ## Quando la coda è vuota
 
 1. Guarda quali sezioni sono più scarne (`ls content/*/`): oggi `piccoli-animali`, `acquari` e `salute` hanno pochi articoli.
