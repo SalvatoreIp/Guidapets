@@ -10,6 +10,7 @@ Uso interno del cron giornaliero (non è un articolo). Formato:
 ## Pubblicati
 
 - [x] Il gatto beve poco: cause, quanto dovrebbe bere e cosa fare | salute | gatto-beve-poco-cause-cosa-fare-2026 | "gatto beve poco" / "gatto non beve" | 2026-09-26, scelta senza dati di volume. Angolo salute (non prodotto) per non duplicare la guida alle fontanelle, a cui rimanda.
+- [x] Cane e castagne, ghiande, ippocastani: cosa è pericoloso in autunno | salute | cane-castagne-ghiande-ippocastani-autunno-2026 | "cane castagne" / "cane ghiande" / "ippocastano cane" | 2026-09-26, scelta senza dati di volume (stagionale autunno, coda lunga). Fonti verificate: Ticino Animal Hospital, Wamiz, Amore a quattro zampe.
 
 ## Quando la coda è vuota
 
