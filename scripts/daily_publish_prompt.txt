@@ -6,6 +6,8 @@ PASSO 1 — Argomento: apri content-queue.md e prendi il primo elemento `- [ ]` 
 
 PASSO 2 — Ricerca: usa WebSearch per verificare i fatti (fonti veterinarie serie per la salute), i prodotti reali e i prezzi attuali. Link Amazon di prodotto solo se trovati davvero su Amazon.it (query "site:amazon.it <prodotto>"), con tag audiobookit-21; altrimenti link di ricerca amazon.it/s?k=...&tag=audiobookit-21. Mai ASIN inventati.
 
+DATA DELL'ARTICOLO: nel frontmatter usa l'ora attuale presa con `date +%Y-%m-%dT%H:%M:%S%:z`, mai un orario futuro (Hugo non pubblica gli articoli con data futura). L'orario del cron citato in CLAUDE.md non c'entra.
+
 PASSO 3 — Scrivi l'articolo seguendo CLAUDE.md (900-1400 parole, frontmatter con virgolette doppie, box CTA dopo l'introduzione, 2-3 link interni verso articoli esistenti trovati con grep in content/).
 
 Copertina con ElevenLabs (~185 crediti):
