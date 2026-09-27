@@ -64,7 +64,8 @@ if [ -n "$LINK" ] && [ "$(curl -s -o /dev/null -w '%{http_code}' -m 20 "$LINK")"
   fi
 fi
 
-# Dopo il primo commento (che cerca l'ultimo post della pagina), il reel esce anche anche come storia della pagina (costo zero). Script condiviso con Guida Energia;
+# Dopo il primo commento (che cerca l'ultimo post della pagina) il reel esce anche come storia
+# della pagina (costo zero). Script condiviso con Guida Energia;
 # un errore qui non tocca il reel gia' uscito e non si ritenta, per non fare doppioni.
 if SOUT="$(python3 /home/salvatore/risparmio-energetico/scripts/fb_storia.py "$URL" --pagina "$PAGE_ID" 2>&1)"; then
   log "storia pubblicata: $SOUT"
