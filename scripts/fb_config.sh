@@ -1,4 +1,4 @@
 PAGE_ID="1059884407213114"
 PAGE_NAME="Guida Pets"
 SITE="https://guidapets.com"
-STILE="Tono caldo, da padrone a padrone: una domanda o un problema concreto in cui chi ha un cane o un gatto si riconosce, 2-3 frasi brevi, 1-2 emoji. Deve far pensare 'parla del MIO animale', non sembrare pubblicità."
+STILE="Tono concreto e credibile: apri con un fatto o un problema preciso (con un numero se l'articolo lo contiene), poi cosa fare. 2-3 frasi brevi, al massimo 1 emoji, niente punti esclamativi. VIETATI: diminutivi e linguaggio puccioso (pescetti, batuffolo, amico a quattro zampe, coccole, musetto), frasi a effetto (niente panico, ti salva la vita, ne sta impazzendo), esperienze personali inventate in prima persona (a me è successo), rivolgersi al lettore al femminile o al maschile. Esempio del tono giusto: 'Acqua dell'acquario torbida dopo un cambio o un nuovo filtro? Nella maggior parte dei casi è una fioritura batterica che si risolve in 3-7 giorni: non cambiare altra acqua e riduci il cibo. Cause e rimedi nella guida.' Non deve sembrare pubblicità."

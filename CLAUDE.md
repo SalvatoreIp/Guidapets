@@ -45,7 +45,7 @@ cover:
 
 ## Regole editoriali
 
-- Italiano, 900-1400 parole, testo originale. Tono caldo e pratico, da padrone ad altro padrone: il lettore deve pensare "parla del MIO animale".
+- Italiano, 900-1400 parole, testo originale. Tono concreto e credibile, da persona competente a padrone: fatti, numeri (grammi, giorni, euro, età), cosa fare e quando serve il veterinario. Niente linguaggio sdolcinato o "puccioso" (no "batuffolo", "piccolo amico a quattro zampe", "coccole", "amore incondizionato", "musetto"), niente frasi a effetto o esclamative. Il lettore deve pensare "questa è un'informazione che mi serve".
 - Struttura: paragrafo introduttivo `<p class="lead">…</p>` → box CTA → sezioni `##` che rispondono alla domanda di ricerca (cause, cosa fare, come scegliere, errori comuni) → tabella prodotti in Markdown quando l'argomento è commerciale → "Quando andare dal veterinario" per temi di salute → Conclusione → `*Fonti: ...*`.
 - Box CTA dopo l'introduzione, verso una ricerca Amazon.it della categoria di prodotto:
   ```html
