@@ -1,0 +1,170 @@
+{
+  "_nota": "Coda video Guida Pets (foto animate gratis con anima_foto.py). Esce 1 al giorno alle 12:30 con scripts/fb_video_coda.sh; stato in /home/salvatore/output/guidapets_video_state.json.",
+  "video": [
+    {
+      "id": 1,
+      "slug": "pets-castagne",
+      "immagine": "cane-castagne-ghiande-ippocastani-autunno-2026",
+      "centro": 0.36,
+      "titolo": "CANE E AUTUNNO: COSA NON DEVE MANGIARE",
+      "schede": [
+        "GHIANDE|tossiche: vomito, rischio reni",
+        "IPPOCASTANO|tondo e lucido: tossico",
+        "CASTAGNA|non tossica, ma col riccio ostruisce"
+      ],
+      "domanda": "IL TUO LE RACCOGLIE?|Scrivilo nei commenti",
+      "testo": "🍂 In autunno parchi e viali si riempiono di ghiande, castagne e ippocastani. Non sono tutti uguali: ghiande e ippocastani sono tossici per il cane, la castagna non lo è ma con il riccio o a pezzi grossi può bloccare l'intestino.\n\nIl frutto dell'ippocastano si riconosce perché è tondo e lucido, quasi una biglia. Sintomi, cosa fare e quando chiamare il veterinario nella guida nel primo commento.\n\nIl tuo cane li raccoglie durante la passeggiata?",
+      "link": "https://guidapets.com/salute/cane-castagne-ghiande-ippocastani-autunno-2026/"
+    },
+    {
+      "id": 2,
+      "slug": "pets-cane-ansima",
+      "immagine": "cane-ansima-cause-2026",
+      "centro": 0.45,
+      "titolo": "CANE CHE ANSIMA: QUANDO PREOCCUPARSI",
+      "schede": [
+        "38-39 °C|la sua temperatura normale",
+        "10-20 MINUTI|dopo il gioco torna normale",
+        "OLTRE 20-30 MINUTI|senza sforzo: sentire il veterinario"
+      ],
+      "domanda": "IL TUO ANSIMA MOLTO?|Scrivilo nei commenti",
+      "testo": "Il cane non suda come noi: ansimare è il suo modo di disperdere calore, con una temperatura normale di 38-39 °C. Dopo una corsa il respiro torna regolare in 10-20 minuti.\n\nSe continua ad ansimare oltre 20-30 minuti a riposo, senza caldo né sforzo, la causa può essere dolore, stress o un problema respiratorio. Le 5 cause e i segnali da non sottovalutare nel primo commento.\n\nIl tuo cane ansima molto anche quando è tranquillo?",
+      "link": "https://guidapets.com/cani/cane-ansima-cause-2026/"
+    },
+    {
+      "id": 3,
+      "slug": "pets-gatto-beve-poco",
+      "immagine": "gatto-beve-poco-cause-cosa-fare-2026",
+      "centro": 0.15,
+      "titolo": "IL GATTO BEVE POCO? I NUMERI",
+      "schede": [
+        "40-60 ml|per kg al giorno, cibo compreso",
+        "CROCCHETTE|solo 6-10% di acqua",
+        "CIOTOLA LARGA|i baffi non devono toccare i bordi"
+      ],
+      "domanda": "IL TUO DOVE BEVE?|Ciotola, fontanella o rubinetto?",
+      "testo": "💧 Un gatto ha bisogno di circa 40-60 ml di acqua per chilo di peso al giorno, contando anche quella del cibo. Il cibo umido ne contiene il 75-82%, le crocchette solo il 6-10%: chi mangia solo secco dovrebbe bere molto di più, e quasi mai lo fa.\n\nDue dettagli che contano: ciotola lontana dal cibo e dalla lettiera, e larga, perché i baffi sono sensibili e se toccano i bordi il gatto beve meno. Cause e rimedi nel primo commento.\n\nIl tuo gatto dove preferisce bere?",
+      "link": "https://guidapets.com/salute/gatto-beve-poco-cause-cosa-fare-2026/"
+    },
+    {
+      "id": 4,
+      "slug": "pets-coniglio-nano",
+      "immagine": "alimentazione-coniglio-nano-2026",
+      "centro": 0.2,
+      "titolo": "CONIGLIO NANO: COSA MANGIA DAVVERO",
+      "schede": [
+        "FIENO|sempre disponibile, 24 ore su 24",
+        "PELLET|15-25 g per kg di peso al giorno",
+        "12-24 ORE SENZA FIENO|è un'emergenza"
+      ],
+      "domanda": "IL TUO COSA PREFERISCE?|Scrivilo nei commenti",
+      "testo": "🌿 Nel coniglio il fieno non è un contorno: tiene in movimento l'intestino e consuma i denti, che crescono per tutta la vita. Deve essere sempre disponibile e rinnovato ogni giorno.\n\nIl pellet completa la dieta, 15-25 grammi per chilo di peso al giorno. Se il coniglio smette di mangiare fieno per 12-24 ore non è un capriccio: va sentito il veterinario. Dosi, verdure giuste e errori da evitare nel primo commento.\n\nQual è la verdura preferita del tuo coniglio?",
+      "link": "https://guidapets.com/piccoli-animali/alimentazione-coniglio-nano-2026/"
+    },
+    {
+      "id": 5,
+      "slug": "pets-cavia",
+      "immagine": "alimentazione-cavia-porcellino-india-2026",
+      "centro": 0.3,
+      "titolo": "CAVIA: LA VITAMINA C CHE LE SERVE OGNI GIORNO",
+      "schede": [
+        "10-30 mg|di vitamina C al giorno",
+        "VERDURA FRESCA|50-100 g al giorno",
+        "CAMBI DI CIBO|in 7-10 giorni, mai di colpo"
+      ],
+      "domanda": "HAI UNA CAVIA?|Qual è la sua verdura preferita?",
+      "testo": "La cavia non produce da sola la vitamina C: le servono circa 10-30 mg al giorno. Le fonti migliori sono peperone, cavolo, tarassaco e broccolo, 50-100 grammi di verdura fresca al giorno per un adulto.\n\nIl fieno resta l'alimento principale, sempre disponibile. Ogni cambio di dieta va fatto in 7-10 giorni, altrimenti si rischia di bloccare la digestione. Cosa dare e cosa evitare nel primo commento.\n\nHai una cavia? Qual è la verdura che preferisce?",
+      "link": "https://guidapets.com/piccoli-animali/alimentazione-cavia-porcellino-india-2026/"
+    },
+    {
+      "id": 6,
+      "slug": "pets-criceto",
+      "immagine": "alimentazione-criceto-cosa-mangia-2026",
+      "centro": 0.15,
+      "titolo": "QUANTO MANGIA UN CRICETO",
+      "schede": [
+        "SIRIANO|10-15 g di mangime al giorno",
+        "NANO|5-8 g al giorno",
+        "PROTEINE|2-3 volte a settimana"
+      ],
+      "domanda": "SIRIANO O NANO?|Quale hai in casa?",
+      "testo": "Un criceto siriano mangia circa 10-15 grammi di mangime al giorno, un criceto nano (Roborovski, Campbell, russo) 5-8 grammi. La base è un mangime completo per criceti, non solo semi di girasole.\n\nÈ onnivoro: 2-3 volte a settimana gli serve un po' di proteine, come un pezzetto di uovo sodo o di pollo lesso senza condimento. Verdure permesse e semi da evitare nel primo commento.\n\nIl tuo criceto è siriano o nano?",
+      "link": "https://guidapets.com/piccoli-animali/alimentazione-criceto-cosa-mangia-2026/"
+    },
+    {
+      "id": 7,
+      "slug": "pets-cane-auto",
+      "immagine": "cane-stress-viaggio-auto-2026",
+      "centro": 0.9,
+      "titolo": "CANE CHE STA MALE IN AUTO",
+      "schede": [
+        "SALIVA E VOMITO|i segnali del mal d'auto",
+        "3-18 MESI|l'età più a rischio",
+        "VIAGGI BREVI|per abituarlo gradualmente"
+      ],
+      "domanda": "IL TUO COME VIAGGIA?|Scrivilo nei commenti",
+      "testo": "🚗 Salivazione abbondante e vomito durante il viaggio: nel cane possono essere mal d'auto oppure ansia, e si affrontano in modo diverso. I più esposti sono i cani tra 3 e 18 mesi, perché l'equilibrio non è ancora del tutto sviluppato.\n\nMolti migliorano con viaggi brevi e graduali, a stomaco quasi vuoto e ben fissati nel trasportino o con la cintura. Sintomi e soluzioni nel primo commento.\n\nIl tuo cane come vive i viaggi in auto?",
+      "link": "https://guidapets.com/cani/cane-stress-viaggio-auto-2026/"
+    },
+    {
+      "id": 8,
+      "slug": "pets-acquario-torbido",
+      "immagine": "acqua-torbida-acquario-cause-soluzioni-2026",
+      "centro": 0.85,
+      "titolo": "ACQUA TORBIDA IN ACQUARIO",
+      "schede": [
+        "ACQUARIO NUOVO|di solito è fioritura batterica",
+        "CIBO|solo quanto finiscono in 2-3 minuti",
+        "LUCE|non oltre 8-10 ore al giorno"
+      ],
+      "domanda": "DA QUANTO HAI L'ACQUARIO?|Scrivilo nei commenti",
+      "testo": "Acqua lattiginosa in un acquario appena avviato? Nella maggior parte dei casi è una fioritura batterica: il filtro non ha ancora abbastanza batteri buoni e di solito passa quando il filtro si stabilizza.\n\nLe altre cause frequenti sono troppo cibo (la dose giusta è quella che i pesci finiscono in 2-3 minuti) e troppa luce, oltre 8-10 ore al giorno, che fa crescere le alghe. Tutte le cause nel primo commento.\n\nDa quanto tempo hai il tuo acquario?",
+      "link": "https://guidapets.com/acquari/acqua-torbida-acquario-cause-soluzioni-2026/"
+    },
+    {
+      "id": 9,
+      "slug": "pets-furetto",
+      "immagine": "furetto-animale-domestico-2026",
+      "centro": 0.4,
+      "titolo": "FURETTO IN CASA: COSA SERVE",
+      "schede": [
+        "6-10 ANNI|di vita, a volte fino a 12",
+        "2-3 ORE AL GIORNO|fuori dalla gabbia",
+        "GABBIA|almeno 100x60x150 cm"
+      ],
+      "domanda": "LO PRENDERESTI?|Scrivilo nei commenti",
+      "testo": "Il furetto vive 6-10 anni, a volte fino a 12, ed è un impegno quotidiano: ha bisogno di 2-3 ore al giorno fuori dalla gabbia, in una stanza messa in sicurezza, e non sopporta di restare solo per più di 8-10 ore.\n\nLa gabbia deve essere grande, almeno 100x60x150 cm su più piani. Alimentazione, costi mensili e cosa sapere prima di prenderlo nel primo commento.\n\nPrenderesti un furetto in casa?",
+      "link": "https://guidapets.com/piccoli-animali/furetto-animale-domestico-2026/"
+    },
+    {
+      "id": 10,
+      "slug": "pets-cane-anziano",
+      "immagine": "cuccia-ortopedica-cani-anziani-2026",
+      "centro": 0.75,
+      "titolo": "QUANDO UN CANE DIVENTA ANZIANO",
+      "schede": [
+        "PICCOLA TAGLIA|da 7-8 anni",
+        "MEDIA TAGLIA|da 6-7 anni",
+        "GRANDE TAGLIA|da 5-6 anni"
+      ],
+      "domanda": "QUANTI ANNI HA IL TUO?|Scrivilo nei commenti",
+      "testo": "Un cane non invecchia alla stessa età per tutte le taglie: sotto i 10 kg la fase anziana inizia intorno ai 7-8 anni, tra 10 e 25 kg verso i 6-7, nei cani grandi già a 5-6 anni.\n\nI primi segnali sono spesso piccoli, come il pelo grigio intorno al muso e agli occhi o l'udito che cala. Riconoscerli presto permette di adattare cibo, movimento e controlli. I 7 segnali da non ignorare nel primo commento.\n\nQuanti anni ha il tuo cane?",
+      "link": "https://guidapets.com/cani/segnali-cane-sta-invecchiando-2026/"
+    },
+    {
+      "id": 11,
+      "slug": "pets-cane-lecca-zampe",
+      "immagine": "cane-lecca-zampe-cause-2026",
+      "centro": 0.5,
+      "titolo": "SI LECCA LE ZAMPE DI CONTINUO?",
+      "schede": [
+        "ALLERGIE|la causa più frequente",
+        "OLTRE 5-10 MINUTI|di fila non è solo pulizia",
+        "PARASSITI E ANSIA|le altre cause da escludere"
+      ],
+      "domanda": "ANCHE IL TUO LO FA?|Scrivilo nei commenti",
+      "testo": "Leccarsi le zampe ogni tanto è normale. Se il cane lo fa per più di 5-10 minuti di fila, o tutti i giorni, di solito c'è un motivo: la causa più frequente sono le allergie, seguite da dermatiti, parassiti e ansia.\n\nConta anche quali zampe: tutte e quattro fanno pensare ad allergie o stress, una sola a una lesione locale o a dolore. Come capire la causa nel primo commento.\n\nAnche il tuo cane si lecca spesso le zampe?",
+      "link": "https://guidapets.com/cani/cane-lecca-zampe-cause-2026/"
+    }
+  ]
+}
