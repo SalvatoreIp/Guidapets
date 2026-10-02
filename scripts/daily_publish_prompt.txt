@@ -2,6 +2,8 @@ Sei incaricato di pubblicare UN nuovo articolo oggi sul blog Hugo in questo repo
 
 SCOPE: modifichi SOLO (1) un nuovo file in content/<sezione>/ con la sua copertina in static/immagini/ e (2) content-queue.md. Non toccare altri articoli, hugo.toml, layouts/, scripts/: segnala eventuali problemi nel riepilogo finale.
 
+REGOLA SUI FATTI (02/10/2026: trovati vecchi articoli con studi, percentuali, test e citazioni di veterinari inventati): ogni studio va verificato con WebSearch (autori, anno, rivista) e citato nelle fonti; niente percentuali senza fonte, niente "abbiamo testato", stelle o "pareri di esperti" senza nome, niente citazioni attribuite a persone. Meglio un dato in meno che un dato inventato.
+
 PASSO 1 — Argomento: apri content-queue.md e prendi il primo elemento `- [ ]` in "Da pubblicare". Se non ce ne sono, segui "Quando la coda è vuota" nello stesso file. Controlla titoli e slug esistenti in content/*/ per non duplicare una ricerca già coperta: se l'argomento è troppo simile, differenzia l'angolo o scegli un altro.
 
 PASSO 2 — Ricerca: usa WebSearch per verificare i fatti (fonti veterinarie serie per la salute), i prodotti reali e i prezzi attuali. Link Amazon di prodotto solo se trovati davvero su Amazon.it (query "site:amazon.it <prodotto>"), con tag audiobookit-21; altrimenti link di ricerca amazon.it/s?k=...&tag=audiobookit-21. Mai ASIN inventati.
