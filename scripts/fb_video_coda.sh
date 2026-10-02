@@ -27,11 +27,13 @@ coda = [v for v in json.load(open("scripts/fb_video_queue.json"))["video"] if v[
 if coda:
     v = coda[0]
     open(testo, "w").write(v["testo"])
-    print(f'{v["id"]}\t{v["slug"]}\t{v["link"]}\t{len(coda) - 1}')
+    # "-" al posto del link vuoto: con IFS=tab due tab di fila verrebbero fusi da read
+    print(f'{v["id"]}\t{v["slug"]}\t{v.get("link") or "-"}\t{len(coda) - 1}')
 EOF
 )"
 if [ -z "$NEXT" ]; then log "coda video vuota: niente da pubblicare, va rifornita"; exit 0; fi
 IFS=$'\t' read -r ID SLUG LINK RESTANO <<< "$NEXT"
+[ "$LINK" = "-" ] && LINK=""
 log "video #$ID ($SLUG) - restanti in coda dopo questo: $RESTANO"
 [ "$RESTANO" -le 3 ] && log "ATTENZIONE: restano solo $RESTANO video in coda, prepararne altri"
 
