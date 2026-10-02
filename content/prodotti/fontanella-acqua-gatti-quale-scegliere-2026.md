@@ -221,7 +221,7 @@ Ecco la classifica aggiornata al 2026 dei migliori fontanelle d'acqua automatich
 - ❌ Pompa base (sorgente meno divertente)
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0D9BPB2V5?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=fontanella+gatti+silenziosa&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -280,7 +280,7 @@ Ecco la classifica aggiornata al 2026 dei migliori fontanelle d'acqua automatich
 - ❌ Plastica in parti (non tutto inox)
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0G5PM19RG?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=fontanella+gatti+acciaio&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -340,7 +340,7 @@ Ecco la classifica aggiornata al 2026 dei migliori fontanelle d'acqua automatich
 - ❌ Complessa da pulire (più parti)
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0DPX61N3C?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=fontanella+gatti+smart&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -527,7 +527,7 @@ La fontanella d'acqua è un **investimento nella salute** del tuo gatto. Con un 
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/1096052067?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=fontanella+acqua+gatti&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

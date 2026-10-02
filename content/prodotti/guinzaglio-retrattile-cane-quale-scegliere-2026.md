@@ -210,7 +210,7 @@ Ecco la classifica aggiornata al 2026 dei migliori guinzagli retrattili, basata 
 - ❌ Garanzia breve (1 anno)
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0FSL8LCPH?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=guinzaglio+retrattile+cane+nastro&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -269,7 +269,7 @@ Ecco la classifica aggiornata al 2026 dei migliori guinzagli retrattili, basata 
 - ❌ Nastro meno resistente
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0FSL8LCPH?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=guinzaglio+retrattile+cane+nastro&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -428,7 +428,7 @@ Il guinzaglio retrattile è **comodo e pratico**, ma richiede attenzione alla si
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=accessori+cane+gatto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

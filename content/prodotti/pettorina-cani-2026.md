@@ -148,7 +148,7 @@ Ecco la classifica aggiornata al 2026 dei migliori modelli, basata su qualità c
 - ❌ Meno features rispetto a Ruffwear
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0BQJN568N?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=pettorina+cane&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -498,7 +498,7 @@ La pettorina è un **investimento nella salute** del tuo cane. Con un costo di �
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=pettorina+cane&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

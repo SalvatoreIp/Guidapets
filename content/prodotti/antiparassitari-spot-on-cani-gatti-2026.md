@@ -56,7 +56,7 @@ Gli **antiparassitari spot on** sono soluzioni liquide da applicare sulla pelle 
 <td>€18-24</td>
 <td>Efficace su pulci, zecche e uova, azione rapida 12h</td>
 <td>Applicazione mensile, odore leggermente sgradevole</td>
-<td><a href="https://www.amazon.it/dp/B07Z28RS3J?tag=audiobookit-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/s?k=pipette+antiparassitarie+cane&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Frontline Tri-Act 4 Pipette</strong><br><small>Cani 2-10kg, nuova formula avanzata</small></td>
@@ -107,7 +107,7 @@ Gli **antiparassitari spot on** sono soluzioni liquide da applicare sulla pelle 
 <td>€14-20</td>
 <td>Protezione base pulci e zecche, prezzo accessibile</td>
 <td>Nessuna protezione uova/larve, applicazione mensile</td>
-<td><a href="https://www.amazon.it/dp/B07Z28RS3J?tag=audiobookit-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/s?k=pipette+antiparassitarie+cane&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Bravecto Spot On Gatti 3 Pipette</strong><br><small>Gatti 1,2-12,5kg, Fluralaner</small></td>

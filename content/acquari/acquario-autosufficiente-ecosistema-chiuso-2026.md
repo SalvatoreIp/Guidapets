@@ -179,7 +179,7 @@ Gli organismi acquatici:
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0185IRSU8?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=ecosistema+acquatico+chiuso&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -297,7 +297,7 @@ Gli organismi acquatici:
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CHNR6VT6?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=kit+acquario+piante&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

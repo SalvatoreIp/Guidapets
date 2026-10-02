@@ -227,7 +227,7 @@ Se il tuo cane mostra questi segnali, soffre durante i viaggi:
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GKDCN9HZ?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=trasportino+cane+auto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

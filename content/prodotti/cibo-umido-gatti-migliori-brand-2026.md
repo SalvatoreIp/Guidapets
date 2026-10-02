@@ -212,7 +212,7 @@ Ecco la classifica aggiornata al 2026 dei migliori cibi umidi per gatti, basata 
 - ❌ Contiene cereali (riso)
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0G549QJ3M?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=cibo+umido+gatto+sterilizzato&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -448,7 +448,7 @@ Qualunque sia la scelta, **il cibo umido è la scelta migliore** per la salute d
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=cibo+umido+gatto+sterilizzato&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

@@ -24,3 +24,23 @@ Uso interno del cron giornaliero (non è un articolo). Formato:
 2. Con WebSearch valida 2-3 idee che i padroni italiani cercano davvero: problemi concreti ("il gatto non beve", "cane che trema"), scelte d'acquisto ("miglior fontanella per gatti"), stagionalità (autunno: muta, freddo, zecche residue, castagne tossiche; dicembre: cibi natalizi pericolosi).
 3. Preferisci domande specifiche a coda lunga rispetto a temi generici ("cibo per cani") dominati da grandi siti.
 4. Scegli la più solida, pubblicala e aggiungila sotto "Pubblicati" con `- [x]`, data e la nota "scelta senza dati di volume".
+
+## Da aggiornare
+
+Articoli vecchi con prodotti, numeri o fonti inventati (controllo del 02/10/2026). Il cron li aggiorna lunedì, mercoledì e sabato, uno per volta, in quest'ordine. I link Amazon sbagliati sono già stati trasformati in ricerche il 02/10: ora vanno rifatti i contenuti.
+
+- [ ] content/prodotti/antiparassitari-spot-on-cani-gatti-2026.md — prodotto per gatti (Frontline Combo Gatti) era nella sezione cani; verificare durate, specie, presenza di permetrina; non citare farmaci con ricetta come acquistabili online; coordinare con /prodotti/antiparassitari-cani-gatti-2026/ (già riscritto il 02/10)
+- [ ] content/prodotti/fontanella-acqua-gatti-quale-scegliere-2026.md — nomi prodotti non corrispondenti a quelli venduti (FenSoda, HOPRO, Petsfit); un link era il codice di un libro; fonti vaghe ("pareri nefrologi, test comparativi")
+- [ ] content/prodotti/miglior-cibo-secco-cani-2026.md — un link portava a un siero cosmetico; verificare tutte le marche e le percentuali di carne dichiarate
+- [ ] content/prodotti/cibo-umido-gatti-migliori-brand-2026.md — "Purina Pro Plan Veterinary Diet" non è il prodotto linkato; fonti vaghe ("analisi Nutrienti, pareri proprietari")
+- [ ] content/prodotti/miglior-cibo-gatti-sterilizzati-2026.md — verificare che i prodotti consigliati siano davvero per gatti sterilizzati (Whiskas generico in lista)
+- [ ] content/prodotti/miglior-lettiera-gatto-autodetergente-2026.md — "CatGenie 120", "Whistle litter Box 2", "PetSafe ScoopFree Ultra": verificare che esistano e siano venduti in Italia; fonti vaghe
+- [ ] content/prodotti/pettorina-cani-2026.md — marche americane (Lupine, Ruffwear, 2 Hounds, Blueberry) con link ad altri prodotti; rifare la selezione con modelli venduti su Amazon.it
+- [ ] content/prodotti/tappetini-refrigeranti-animali-2026.md — tutti e 5 i prodotti nominati (PetSafe Coolaroo, Petmate, Armarkat, Furhaven...) non corrispondevano ai link; contenuto estivo, rifarlo con prodotti reali
+- [ ] content/prodotti/cuccia-ortopedica-cani-anziani-2026.md — modelli americani (Majestic Royal Orthopedic, K&H, Bartex); fonti vaghe ("pareri ortopedici")
+- [ ] content/prodotti/cuccia-cani-esterno-interno-guida-2026.md — un link era una fodera di ricambio, un altro una gabbia; fonti vaghe
+- [ ] content/prodotti/tiragraffi-gatti-migliori-2026.md — "PetFusion" linkava un Trixie; nomi storpiati (Feanda, Vespera); fonti vaghe
+- [ ] content/prodotti/guinzaglio-retrattile-cane-quale-scegliere-2026.md — "PetSafe Steel", "Kong Flexi" non corrispondenti; esiste anche cani/guinzagli-retrattili-cani-2026.md sullo stesso tema: differenziare i due articoli
+- [ ] content/prodotti/trasportino-cane-auto-2026.md — un trasportino rigido era nella sezione morbidi; verificare omologazioni e prezzi
+- [ ] content/acquari/acquario-autosufficiente-ecosistema-chiuso-2026.md — "Ecosphere" linkava una boccia per pesci (sconsigliata per il benessere dei pesci); il kit linkava un set di attrezzi
+- [ ] content/gatti/come-scegliere-gatto-perfetto.md + content/gatti/come-scegliere-gatto-perfetto-casa.md + content/gatti/scelta-gatto-perfetto-per-casa.md — TRE articoli sullo stesso tema: segnalare a Salvatore quale tenere (non cancellare né fondere da soli)

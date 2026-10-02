@@ -1,0 +1,33 @@
+Oggi NON scrivi un articolo nuovo: AGGIORNI UN articolo già pubblicato sul blog Hugo in questo repository (guidapets.com). Leggi prima CLAUDE.md nella root del repo: contiene le regole editoriali e il comando esatto del ciclo di pubblicazione. Seguile alla lettera.
+
+PERCHÉ: il 02/10/2026 un controllo ha trovato in diversi articoli vecchi prodotti con nomi storpiati o americani non venduti in Italia, link Amazon che portavano a prodotti diversi, "test" e "pareri di esperti" mai fatti, studi e percentuali inventati. Il tuo compito è rendere l'articolo VERO: meglio un articolo più corto con fatti verificati che uno lungo con dati inventati.
+
+SCOPE: modifichi SOLO (1) il file dell'articolo da aggiornare (ed eventualmente la sua copertina se è fuori tema) e (2) content-queue.md. Non toccare altri articoli, hugo.toml, layouts/, scripts/: segnala eventuali problemi nel riepilogo finale.
+
+PASSO 1 — Scegli l'articolo: apri content-queue.md, sezione "## Da aggiornare", e prendi il primo elemento `- [ ]`. La riga indica il file e i problemi già noti. Se l'elemento chiede di segnalare qualcosa a Salvatore invece di modificare (es. articoli doppi), NON modificare nulla: segnalo nel riepilogo, segna l'elemento `- [x]` con la nota "segnalato" e passa al successivo. Se la lista è vuota, fermati e scrivilo nel riepilogo.
+
+PASSO 2 — Verifica ogni affermazione:
+- Prodotti: ogni prodotto citato deve esistere ed essere venduto in Italia. Per controllare un codice Amazon (ASIN) usa:
+  curl -s -L --compressed -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36" -H "Accept-Language: it-IT,it;q=0.9" "https://www.amazon.it/dp/ASIN" | grep -o 'id="productTitle"[^>]*>[^<]*'
+  Usa un link `amazon.it/dp/ASIN` SOLO se il titolo restituito corrisponde al prodotto descritto nell'articolo. Se Amazon risponde con un captcha o il titolo non corrisponde, usa un link di ricerca `https://www.amazon.it/s?k=nome+prodotto&tag=audiobookit-21`. Mai ASIN inventati o presi a memoria. Per trovare prodotti reali cerca con WebSearch (es. "site:amazon.it pettorina cane") e verifica col comando sopra.
+- Specifiche e prezzi: solo quelli che trovi davvero (pagina del produttore, scheda Amazon). I prezzi vanno datati ("prezzo indicativo ottobre 2026"); se non li trovi, togli il prezzo invece di stimarlo.
+- Togli: valutazioni a stelle, "abbiamo testato", "test comparativi", "pareri di veterinari/esperti" senza nome e fonte, citazioni attribuite a persone, percentuali e studi senza una fonte verificabile. Se citi uno studio, verificalo con WebSearch (autori, anno, rivista) e mettilo nelle fonti.
+- Salute: mai dosi di farmaci; i farmaci con obbligo di ricetta veterinaria (es. Simparica, NexGard, Bravecto, Credelio) non si comprano online in Italia: non linkarli. Fonti serie: veterinari universitari, ANMVI, WSAVA, ESCCAP, foglietti illustrativi, Merck Veterinary Manual.
+
+PASSO 3 — Riscrivi senza stravolgere l'URL:
+- NON cambiare il nome del file (l'URL della pagina dipende dal nome del file) né `date:`. Il titolo si può migliorare se è enfatico o contiene errori.
+- Aggiungi (o aggiorna) nel frontmatter `lastmod:` con l'ora attuale presa con `date +%Y-%m-%dT%H:%M:%S%:z`.
+- Struttura e tono come da CLAUDE.md (900-1400 parole, tabella prodotti in Markdown per gli articoli commerciali, box CTA dopo l'introduzione, tono concreto, niente esclamativi, niente linguaggio sdolcinato). Togli le righe di invito a seguire la pagina Facebook dentro il testo.
+- Ogni link affiliato con `target="_blank" rel="nofollow sponsored"` (scrivilo in HTML `<a href=...>` se è dentro un elenco o una tabella).
+- 2-3 link interni verso articoli correlati esistenti (verifica il percorso reale con `ls public/<sezione>/` dopo il build).
+- Fonti in fondo: solo quelle usate davvero, con nome preciso.
+
+PASSO 4 — Verifica e pubblica:
+- `set -a; . ./.env; set +a` e poi il ciclo ESATTO di CLAUDE.md (rm -rf public/ && hugo --minify && npx wrangler pages deploy public --project-name guidapets --commit-dirty=true && git add . && git commit && git push).
+- Prima del commit controlla che ogni link interno dell'articolo esista in public/<sezione>/<pagina>/index.html.
+- Se hugo o wrangler falliscono NON fare push: fermati e spiega nel riepilogo.
+
+PASSO 5 — In content-queue.md segna l'elemento come `- [x]` con la data e una nota breve su cosa hai corretto, nello stesso commit. Messaggio di commit: "Aggiornato: <titolo>", corpo con l'elenco delle correzioni principali, e ultima riga:
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+
+Riepilogo finale breve: articolo aggiornato, URL live, cosa era inventato o sbagliato, problemi incontrati.

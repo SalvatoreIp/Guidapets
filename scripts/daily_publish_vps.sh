@@ -13,7 +13,14 @@ git pull --ff-only origin main
 
 BEFORE="$(git rev-parse HEAD)"
 
-PROMPT="$(cat scripts/daily_publish_prompt.txt)"
+# Lunedi' (1), mercoledi' (3) e sabato (6): aggiornamento di un articolo vecchio invece di uno nuovo
+# (lista "Da aggiornare" in content-queue.md, articoli con prodotti/dati inventati trovati il 02/10/2026).
+# Gli altri giorni: articolo nuovo. Il post Facebook parte solo per articoli nuovi (file aggiunti).
+case "$(date +%u)" in
+  1|3|6) echo "[$(date '+%Y-%m-%d %H:%M')] giorno di AGGIORNAMENTO"
+         PROMPT="$(cat scripts/daily_update_prompt.txt)" ;;
+  *)     PROMPT="$(cat scripts/daily_publish_prompt.txt)" ;;
+esac
 
 /home/salvatore/.local/bin/claude -p "$PROMPT" \
   --model claude-sonnet-5 \

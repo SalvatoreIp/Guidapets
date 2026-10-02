@@ -174,7 +174,7 @@ Ecco la classifica aggiornata al 2026 delle migliori cuccie, basata su qualità,
 - ❌ Non impermeabile
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B08B45TPV3?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=cuccia+divano+cane+ortopedica&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -292,7 +292,7 @@ Ecco la classifica aggiornata al 2026 delle migliori cuccie, basata su qualità,
 - ❌ Si schiaccia dopo 6 mesi
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B09G49LXL2?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=tappetino+per+trasportino+cane&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -533,7 +533,7 @@ La cuccia è un **investimento nel benessere** del tuo cane. Con un costo di €
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=accessori+cane+gatto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

@@ -203,7 +203,7 @@ Ecco la classifica aggiornata al 2026 delle migliori lettiere autodetergenti, ba
 - Più grande e rumorosa
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B06XJ3WSSW?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=lettiera+autopulente+gatto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -426,7 +426,7 @@ Qualunque sia la scelta, **risparmierai tempo, odori e stress**. Il tuo gatto me
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=accessori+cane+gatto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

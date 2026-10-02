@@ -95,7 +95,7 @@ Ecco la classifica aggiornata al 2026 dei migliori tiragraffi, basata su recensi
 - ❌ Non ha nascondigli/piattaforme
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0160VM4LU?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=tiragraffi+cartone+gatto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -482,7 +482,7 @@ Il tiragraffi è un **investimento necessario** per la salute del gatto e la pro
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=accessori+cane+gatto&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

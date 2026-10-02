@@ -107,7 +107,7 @@ Il **trasportino per cani** è un contenitore specifico progettato per trasporta
 <td>€35-50</td>
 <td>Porte multiple, tessuti resistenti, ventilazione</td>
 <td>Prezzo medio, non IATA</td>
-<td><a href="https://www.amazon.it/dp/B003E77OEG?tag=audiobookit-21" target="_blank">Amazon</a></td>
+<td><a href="https://www.amazon.it/s?k=trasportino+morbido+cane+auto&tag=audiobookit-21" target="_blank">Amazon</a></td>
 </tr>
 <tr>
 <td><strong>Ferplast Doggy Travel Bag</strong><br><small>Morbido, cuscino incluso, fino a 10 kg</small></td>

@@ -313,7 +313,7 @@ Il colpo di calore è una **emergenza medica che può essere fatale** se non tra
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GXFGNL6Z?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=tappetino+refrigerante+cane&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

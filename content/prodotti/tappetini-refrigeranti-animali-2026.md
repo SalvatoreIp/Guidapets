@@ -148,7 +148,7 @@ Ecco la classifica aggiornata al 2026 dei migliori modelli, basata su recensioni
 - ❌ Rischio perdite se danneggiato
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GXFGNL6Z?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=tappetino+refrigerante+cane&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -266,7 +266,7 @@ Ecco la classifica aggiornata al 2026 dei migliori modelli, basata su recensioni
 - ❌ Meno resistente di Armarkat
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0GFD2B2DX?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=tappetino+refrigerante+gel+cane&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 
@@ -325,7 +325,7 @@ Ecco la classifica aggiornata al 2026 dei migliori modelli, basata su recensioni
 - ❌ Più pesante degli altri
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/dp/B0DZHN82KV?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
+  <a href="https://www.amazon.it/s?k=tappetino+refrigerante+cane&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">👉 Vedi prezzo su Amazon</a>
 </div>
 
 

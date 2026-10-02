@@ -336,7 +336,7 @@ I forasacchi sono un pericolo **reale e grave** per i cani, specialmente tra mag
 
 **Prevenzione = Risparmio** e sicurezza per il tuo cane!
 
-[Amazon](https://www.amazon.it/dp/B0CGYZBFJD?tag=audiobookit-21)
+[Amazon](https://www.amazon.it/s?k=accessori+cane+gatto&tag=audiobookit-21)
 
 ---
 
