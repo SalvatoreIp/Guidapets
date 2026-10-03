@@ -21,5 +21,5 @@ if [ -z "$URL" ]; then
 fi
 echo "Post Facebook ($PAGE_NAME) per: $TITLE ($URL)"
 /home/salvatore/.npm-global/bin/openclaw agent --agent main --json --timeout 240 \
-  --message "Pubblica ORA sulla Pagina Facebook $PAGE_NAME (page_id $PAGE_ID) usando FACEBOOK_CREATE_POST un post in italiano basato su questo articolo. Titolo: $TITLE. Descrizione: $DESC. $STILE Includi il link $URL come parametro link. Non chiedere conferma: pubblica direttamente e rispondi con l'ID del post." \
+  --message "Pubblica ORA sulla Pagina Facebook $PAGE_NAME (page_id $PAGE_ID) usando FACEBOOK_CREATE_POST un post in italiano basato su questo articolo. Titolo: $TITLE. Descrizione: $DESC. $STILE Includi il link $URL come parametro link. Non chiedere conferma: pubblica direttamente e rispondi con l'ID del post. $(cat /home/salvatore/assistente-pagine/fb_nota_account.txt 2>/dev/null)" \
   | grep -o '"text": *"[^"]\{0,300\}' | tail -3
