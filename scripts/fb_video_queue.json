@@ -54,6 +54,65 @@
    "link": "https://guidapets.com/salute/gatto-beve-poco-cause-cosa-fare-2026/"
   },
   {
+   "id": 101,
+   "slug": "pets-gatto-fusa",
+   "formato": "clip Pixabay 127621 (scripts/video_clip.py) - formato del video da 706 persone",
+   "testo": "Ti fa le fusa vicino all'orecchio la mattina, finché non ti alzi? Non è un caso.\n\nNel 2009 un gruppo dell'Università del Sussex ha registrato 10 gatti in due situazioni: tranquilli sul divano e mentre chiedevano il cibo. Nelle fusa \"di richiesta\" c'era un suono acuto nascosto, intorno ai 380 Hz, simile a un pianto. Fatte ascoltare a 50 persone, sono sembrate più urgenti e meno piacevoli, anche a chi un gatto non l'ha mai avuto.\n\nAttenzione però: le fusa non vogliono sempre dire che sta bene. I gatti le fanno anche dal veterinario o quando hanno dolore. Se fa le fusa ma si nasconde o mangia meno, va visto.\n\nIl tuo a che ora ti sveglia?",
+   "link": ""
+  },
+  {
+   "id": 102,
+   "slug": "pets-cane-trema",
+   "formato": "clip Pixabay 127624 (scripts/video_clip.py) - formato del video da 706 persone",
+   "testo": "Il tuo cane trema? Non sempre è il freddo.\n\nTrema anche per emozione: prima della passeggiata, quando torni a casa, con i temporali o i fuochi d'artificio. In questi casi smette appena la causa finisce. E se trema mentre dorme, piccoli scatti di pochi secondi, è la fase REM: sta sognando.\n\nDiverso è un tremore che non passa dopo 10-15 minuti al caldo e lontano da rumori, o che arriva insieme a vomito, zoppia, febbre o fiacchezza: lì serve il veterinario, anche fuori orario. Lo stesso se ha mangiato cioccolato, uva o un farmaco.\n\nIl tuo trema di più per il freddo o per l'emozione?",
+   "link": ""
+  },
+  {
+   "id": 7,
+   "slug": "pets-cane-auto",
+   "immagine": "cane-stress-viaggio-auto-2026",
+   "centro": 0.9,
+   "titolo": "CANE CHE STA MALE IN AUTO",
+   "schede": [
+    "SALIVA E VOMITO|i segnali del mal d'auto",
+    "3-18 MESI|l'età più a rischio",
+    "VIAGGI BREVI|per abituarlo gradualmente"
+   ],
+   "domanda": "IL TUO COME VIAGGIA?|Scrivilo nei commenti",
+   "testo": "🚗 Salivazione abbondante e vomito durante il viaggio: nel cane possono essere mal d'auto oppure ansia, e si affrontano in modo diverso. I più esposti sono i cani tra 3 e 18 mesi, perché l'equilibrio non è ancora del tutto sviluppato.\n\nMolti migliorano con viaggi brevi e graduali, a stomaco quasi vuoto e ben fissati nel trasportino o con la cintura. Sintomi e soluzioni nel primo commento.\n\nIl tuo cane come vive i viaggi in auto?",
+   "link": "https://guidapets.com/cani/cane-stress-viaggio-auto-2026/"
+  },
+  {
+   "id": 10,
+   "slug": "pets-cane-anziano",
+   "immagine": "cuccia-ortopedica-cani-anziani-2026",
+   "centro": 0.75,
+   "titolo": "QUANDO UN CANE DIVENTA ANZIANO",
+   "schede": [
+    "PICCOLA TAGLIA|da 7-8 anni",
+    "MEDIA TAGLIA|da 6-7 anni",
+    "GRANDE TAGLIA|da 5-6 anni"
+   ],
+   "domanda": "QUANTI ANNI HA IL TUO?|Scrivilo nei commenti",
+   "testo": "Un cane non invecchia alla stessa età per tutte le taglie: sotto i 10 kg la fase anziana inizia intorno ai 7-8 anni, tra 10 e 25 kg verso i 6-7, nei cani grandi già a 5-6 anni.\n\nI primi segnali sono spesso piccoli, come il pelo grigio intorno al muso e agli occhi o l'udito che cala. Riconoscerli presto permette di adattare cibo, movimento e controlli. I 7 segnali da non ignorare nel primo commento.\n\nQuanti anni ha il tuo cane?",
+   "link": "https://guidapets.com/cani/segnali-cane-sta-invecchiando-2026/"
+  },
+  {
+   "id": 11,
+   "slug": "pets-cane-lecca-zampe",
+   "immagine": "cane-lecca-zampe-cause-2026",
+   "centro": 0.5,
+   "titolo": "SI LECCA LE ZAMPE DI CONTINUO?",
+   "schede": [
+    "ALLERGIE|la causa più frequente",
+    "OLTRE 5-10 MINUTI|di fila non è solo pulizia",
+    "PARASSITI E ANSIA|le altre cause da escludere"
+   ],
+   "domanda": "ANCHE IL TUO LO FA?|Scrivilo nei commenti",
+   "testo": "Leccarsi le zampe ogni tanto è normale. Se il cane lo fa per più di 5-10 minuti di fila, o tutti i giorni, di solito c'è un motivo: la causa più frequente sono le allergie, seguite da dermatiti, parassiti e ansia.\n\nConta anche quali zampe: tutte e quattro fanno pensare ad allergie o stress, una sola a una lesione locale o a dolore. Come capire la causa nel primo commento.\n\nAnche il tuo cane si lecca spesso le zampe?",
+   "link": "https://guidapets.com/cani/cane-lecca-zampe-cause-2026/"
+  },
+  {
    "id": 4,
    "slug": "pets-coniglio-nano",
    "immagine": "alimentazione-coniglio-nano-2026",
@@ -99,21 +158,6 @@
    "link": "https://guidapets.com/piccoli-animali/alimentazione-criceto-cosa-mangia-2026/"
   },
   {
-   "id": 7,
-   "slug": "pets-cane-auto",
-   "immagine": "cane-stress-viaggio-auto-2026",
-   "centro": 0.9,
-   "titolo": "CANE CHE STA MALE IN AUTO",
-   "schede": [
-    "SALIVA E VOMITO|i segnali del mal d'auto",
-    "3-18 MESI|l'età più a rischio",
-    "VIAGGI BREVI|per abituarlo gradualmente"
-   ],
-   "domanda": "IL TUO COME VIAGGIA?|Scrivilo nei commenti",
-   "testo": "🚗 Salivazione abbondante e vomito durante il viaggio: nel cane possono essere mal d'auto oppure ansia, e si affrontano in modo diverso. I più esposti sono i cani tra 3 e 18 mesi, perché l'equilibrio non è ancora del tutto sviluppato.\n\nMolti migliorano con viaggi brevi e graduali, a stomaco quasi vuoto e ben fissati nel trasportino o con la cintura. Sintomi e soluzioni nel primo commento.\n\nIl tuo cane come vive i viaggi in auto?",
-   "link": "https://guidapets.com/cani/cane-stress-viaggio-auto-2026/"
-  },
-  {
    "id": 8,
    "slug": "pets-acquario-torbido",
    "immagine": "acqua-torbida-acquario-cause-soluzioni-2026",
@@ -142,36 +186,6 @@
    "domanda": "LO PRENDERESTI?|Scrivilo nei commenti",
    "testo": "Il furetto vive 6-10 anni, a volte fino a 12, ed è un impegno quotidiano: ha bisogno di 2-3 ore al giorno fuori dalla gabbia, in una stanza messa in sicurezza, e non sopporta di restare solo per più di 8-10 ore.\n\nLa gabbia deve essere grande, almeno 100x60x150 cm su più piani. Alimentazione, costi mensili e cosa sapere prima di prenderlo nel primo commento.\n\nPrenderesti un furetto in casa?",
    "link": "https://guidapets.com/piccoli-animali/furetto-animale-domestico-2026/"
-  },
-  {
-   "id": 10,
-   "slug": "pets-cane-anziano",
-   "immagine": "cuccia-ortopedica-cani-anziani-2026",
-   "centro": 0.75,
-   "titolo": "QUANDO UN CANE DIVENTA ANZIANO",
-   "schede": [
-    "PICCOLA TAGLIA|da 7-8 anni",
-    "MEDIA TAGLIA|da 6-7 anni",
-    "GRANDE TAGLIA|da 5-6 anni"
-   ],
-   "domanda": "QUANTI ANNI HA IL TUO?|Scrivilo nei commenti",
-   "testo": "Un cane non invecchia alla stessa età per tutte le taglie: sotto i 10 kg la fase anziana inizia intorno ai 7-8 anni, tra 10 e 25 kg verso i 6-7, nei cani grandi già a 5-6 anni.\n\nI primi segnali sono spesso piccoli, come il pelo grigio intorno al muso e agli occhi o l'udito che cala. Riconoscerli presto permette di adattare cibo, movimento e controlli. I 7 segnali da non ignorare nel primo commento.\n\nQuanti anni ha il tuo cane?",
-   "link": "https://guidapets.com/cani/segnali-cane-sta-invecchiando-2026/"
-  },
-  {
-   "id": 11,
-   "slug": "pets-cane-lecca-zampe",
-   "immagine": "cane-lecca-zampe-cause-2026",
-   "centro": 0.5,
-   "titolo": "SI LECCA LE ZAMPE DI CONTINUO?",
-   "schede": [
-    "ALLERGIE|la causa più frequente",
-    "OLTRE 5-10 MINUTI|di fila non è solo pulizia",
-    "PARASSITI E ANSIA|le altre cause da escludere"
-   ],
-   "domanda": "ANCHE IL TUO LO FA?|Scrivilo nei commenti",
-   "testo": "Leccarsi le zampe ogni tanto è normale. Se il cane lo fa per più di 5-10 minuti di fila, o tutti i giorni, di solito c'è un motivo: la causa più frequente sono le allergie, seguite da dermatiti, parassiti e ansia.\n\nConta anche quali zampe: tutte e quattro fanno pensare ad allergie o stress, una sola a una lesione locale o a dolore. Come capire la causa nel primo commento.\n\nAnche il tuo cane si lecca spesso le zampe?",
-   "link": "https://guidapets.com/cani/cane-lecca-zampe-cause-2026/"
   }
  ]
 }
