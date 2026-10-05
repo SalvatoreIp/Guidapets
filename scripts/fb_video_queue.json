@@ -68,19 +68,19 @@
    "link": ""
   },
   {
-   "id": 7,
-   "slug": "pets-cane-auto",
-   "immagine": "cane-stress-viaggio-auto-2026",
-   "centro": 0.9,
-   "titolo": "CANE CHE STA MALE IN AUTO",
+   "id": 11,
+   "slug": "pets-cane-lecca-zampe",
+   "immagine": "cane-lecca-zampe-cause-2026",
+   "centro": 0.5,
+   "titolo": "SI LECCA LE ZAMPE DI CONTINUO?",
    "schede": [
-    "SALIVA E VOMITO|i segnali del mal d'auto",
-    "3-18 MESI|l'età più a rischio",
-    "VIAGGI BREVI|per abituarlo gradualmente"
+    "ALLERGIE|la causa più frequente",
+    "OLTRE 5-10 MINUTI|di fila non è solo pulizia",
+    "PARASSITI E ANSIA|le altre cause da escludere"
    ],
-   "domanda": "IL TUO COME VIAGGIA?|Scrivilo nei commenti",
-   "testo": "🚗 Salivazione abbondante e vomito durante il viaggio: nel cane possono essere mal d'auto oppure ansia, e si affrontano in modo diverso. I più esposti sono i cani tra 3 e 18 mesi, perché l'equilibrio non è ancora del tutto sviluppato.\n\nMolti migliorano con viaggi brevi e graduali, a stomaco quasi vuoto e ben fissati nel trasportino o con la cintura. Sintomi e soluzioni nel primo commento.\n\nIl tuo cane come vive i viaggi in auto?",
-   "link": "https://guidapets.com/cani/cane-stress-viaggio-auto-2026/"
+   "domanda": "ANCHE IL TUO LO FA?|Scrivilo nei commenti",
+   "testo": "Leccarsi le zampe ogni tanto è normale. Se il cane lo fa per più di 5-10 minuti di fila, o tutti i giorni, di solito c'è un motivo: la causa più frequente sono le allergie, seguite da dermatiti, parassiti e ansia.\n\nConta anche quali zampe: tutte e quattro fanno pensare ad allergie o stress, una sola a una lesione locale o a dolore. Come capire la causa nel primo commento.\n\nAnche il tuo cane si lecca spesso le zampe?",
+   "link": "https://guidapets.com/cani/cane-lecca-zampe-cause-2026/"
   },
   {
    "id": 10,
@@ -98,19 +98,19 @@
    "link": "https://guidapets.com/cani/segnali-cane-sta-invecchiando-2026/"
   },
   {
-   "id": 11,
-   "slug": "pets-cane-lecca-zampe",
-   "immagine": "cane-lecca-zampe-cause-2026",
-   "centro": 0.5,
-   "titolo": "SI LECCA LE ZAMPE DI CONTINUO?",
+   "id": 7,
+   "slug": "pets-cane-auto",
+   "immagine": "cane-stress-viaggio-auto-2026",
+   "centro": 0.9,
+   "titolo": "CANE CHE STA MALE IN AUTO",
    "schede": [
-    "ALLERGIE|la causa più frequente",
-    "OLTRE 5-10 MINUTI|di fila non è solo pulizia",
-    "PARASSITI E ANSIA|le altre cause da escludere"
+    "SALIVA E VOMITO|i segnali del mal d'auto",
+    "3-18 MESI|l'età più a rischio",
+    "VIAGGI BREVI|per abituarlo gradualmente"
    ],
-   "domanda": "ANCHE IL TUO LO FA?|Scrivilo nei commenti",
-   "testo": "Leccarsi le zampe ogni tanto è normale. Se il cane lo fa per più di 5-10 minuti di fila, o tutti i giorni, di solito c'è un motivo: la causa più frequente sono le allergie, seguite da dermatiti, parassiti e ansia.\n\nConta anche quali zampe: tutte e quattro fanno pensare ad allergie o stress, una sola a una lesione locale o a dolore. Come capire la causa nel primo commento.\n\nAnche il tuo cane si lecca spesso le zampe?",
-   "link": "https://guidapets.com/cani/cane-lecca-zampe-cause-2026/"
+   "domanda": "IL TUO COME VIAGGIA?|Scrivilo nei commenti",
+   "testo": "🚗 Salivazione abbondante e vomito durante il viaggio: nel cane possono essere mal d'auto oppure ansia, e si affrontano in modo diverso. I più esposti sono i cani tra 3 e 18 mesi, perché l'equilibrio non è ancora del tutto sviluppato.\n\nMolti migliorano con viaggi brevi e graduali, a stomaco quasi vuoto e ben fissati nel trasportino o con la cintura. Sintomi e soluzioni nel primo commento.\n\nIl tuo cane come vive i viaggi in auto?",
+   "link": "https://guidapets.com/cani/cane-stress-viaggio-auto-2026/"
   },
   {
    "id": 4,
