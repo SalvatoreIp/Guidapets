@@ -19,6 +19,12 @@ if [ -z "$URL" ]; then
   echo "ERRORE: pagina dell'articolo non trovata o non raggiungibile ($ARTICLE), post Facebook NON pubblicato"
   exit 1
 fi
+# Dal 05/10/2026 l'articolo esce come REEL gratis (i post col solo link arrivano a 1-3 persone,
+# i video a ~200): /home/salvatore/video-articoli/video_articolo.py. Se fallisce, post con link come prima.
+if /home/salvatore/video-articoli/video_articolo.py pets "$ARTICLE" "$URL" >> /home/salvatore/video-articoli/logs/video.log 2>&1; then
+  echo "Reel dell'articolo pubblicato ($PAGE_NAME): $TITLE"; exit 0
+fi
+echo "Reel NON riuscito (vedi /home/salvatore/video-articoli/logs/video.log): pubblico il post con link"
 echo "Post Facebook ($PAGE_NAME) per: $TITLE ($URL)"
 /home/salvatore/.npm-global/bin/openclaw agent --agent main --json --timeout 240 \
   --message "Pubblica ORA sulla Pagina Facebook $PAGE_NAME (page_id $PAGE_ID) usando FACEBOOK_CREATE_POST un post in italiano basato su questo articolo. Titolo: $TITLE. Descrizione: $DESC. $STILE Includi il link $URL come parametro link. Non chiedere conferma: pubblica direttamente e rispondi con l'ID del post. $(cat /home/salvatore/assistente-pagine/fb_nota_account.txt 2>/dev/null)" \
