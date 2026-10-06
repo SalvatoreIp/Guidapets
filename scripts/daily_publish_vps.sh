@@ -33,3 +33,6 @@ if [ "$BEFORE" != "$AFTER" ]; then
   ARTICLE="$(git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- 'content/*/*.md' | grep -v '_index.md' | head -1)"
   [ -n "$ARTICLE" ] && scripts/fb_post_articolo.sh "$ARTICLE"
 fi
+
+# Avvisa Bing & co. (IndexNow) delle pagine nuove/cambiate: legge public/sitemap.xml appena pubblicata (dal 06/10/2026)
+python3 scripts/indexnow.py || echo "IndexNow non riuscito (riprova al prossimo giro)"
