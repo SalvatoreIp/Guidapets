@@ -108,21 +108,14 @@ def nuvole(n, seed=3):
 
 
 def audio(path, dur, tics, seed=5):
-    """Vento leggero (rumore filtrato) + tappeto morbido + 'tic' a ogni scheda."""
-    rng = np.random.default_rng(seed)
+    """Solo un 'tic' discreto a ogni scheda (09/10, Salvatore: il vecchio fruscio di "vento" + accordo fisso era
+    un suono fastidioso). La musica vera arrivera' da un brano scelto apposta."""
     t = np.arange(int(SR * dur)) / SR
-    noise = rng.standard_normal(len(t)).astype(np.float32)
-    k = int(SR / 400)
-    vento = np.convolve(noise, np.ones(k) / k, mode="same")
-    vento *= 0.5 * (0.6 + 0.4 * np.sin(2 * math.pi * 0.13 * t))
-    pad = np.zeros_like(t)
-    for f0, a in ((196.0, 0.04), (246.94, 0.03), (293.66, 0.03)):
-        pad += a * np.sin(2 * math.pi * f0 * t) * (0.75 + 0.25 * np.sin(2 * math.pi * 0.2 * t + f0))
-    sig = (pad + vento) * np.minimum(1, t / 0.8) * np.minimum(1, (dur - t) / 0.8)
+    sig = np.zeros_like(t)
     for t0 in tics:
         i0, n = int(t0 * SR), int(0.18 * SR)
         tt = np.arange(n) / SR
-        sig[i0:i0 + n] += (0.2 * np.sin(2 * math.pi * 1318.5 * tt) * np.exp(-tt * 28))[:len(sig) - i0]
+        sig[i0:i0 + n] += (0.12 * np.sin(2 * math.pi * 1318.5 * tt) * np.exp(-tt * 28))[:len(sig) - i0]
     st = np.repeat((np.clip(sig, -1, 1) * 32767).astype(np.int16)[:, None], 2, axis=1)
     with wave.open(path, "wb") as w:
         w.setnchannels(2)
