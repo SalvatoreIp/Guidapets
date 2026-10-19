@@ -13,6 +13,27 @@ Rifornita il 02/10/2026 con OpenSEO (progetto "Guida Pets", Italia). La difficol
 - [ ] Perché il cane beve tanto: quando è normale e quando è un sintomo | salute | cane-beve-tanto | "perché il cane beve tanto" 480 | quantità normale per kg da fonte veterinaria
 - [ ] Cosa può mangiare il cane e cosa no: la lista degli alimenti tossici | salute | cibi-tossici-cane | "cibi tossici per cani" 390 + "cosa può mangiare il cane" 320 + "cosa dare da mangiare al cane" 320 + "alimenti tossici per i cani" 110 | pubblicare entro fine novembre (dolci di Natale: cioccolato, uvetta, xilitolo); linkare /salute/cane-castagne-ghiande-ippocastani-autunno-2026/
 
+Rifornita il 19/10/2026 con OpenSEO (progetto "Guida Pets", Italia):
+
+- [ ] Tigna nei cani e nei gatti: sintomi, contagio e cura | salute | tigna-cani-gatti-contagio-cura | tigna gatto (12100/mese, KD 0) + tigna cane (2900/mese, KD 0) | Zoonosi, unire cane+gatto in un pezzo per cumulare volume; focus contagio a persone/altri animali
+- [ ] Quanto vive un gatto: aspettativa di vita e come allungarla | gatti | quanto-vive-gatto-aspettativa-vita | quanto vive un gatto (8100/mese, KD 20) | Angolo pratico sui fattori (sterilizzazione, indoor/outdoor, alimentazione), non solo numeri
+- [ ] Epilessia nel cane: crisi epilettiche, cause e gestione | salute | epilessia-cane-crisi-gestione | crisi epilettiche cane (3600/mese, KD 0) | Cosa fare durante una crisi, quando è urgenza, tono concreto senza allarmismo
+- [ ] Gravidanza isterica nel cane: sintomi e cosa fare | salute | gravidanza-isterica-cane-sintomi | gravidanza isterica cane (3600/mese, KD 0) | Fenomeno comune post-calore in femmine non sterilizzate, poco trattato nei blog IT
+- [ ] Come togliere una zecca al cane: guida passo passo | salute | togliere-zecca-cane-guida | zecca cane (12100/mese, KD 0) + togliere zecca cane | Tecnica corretta, errori da evitare; stagionale, riemersione zecche in autunno
+- [ ] Quanto vivono i criceti: aspettativa di vita e come prolungarla | piccoli-animali | quanto-vivono-criceti-aspettativa-vita | quanto vivono i criceti (3600/mese, KD 0) | Differenze siriano/russo, fattori di longevità in cattività
+- [ ] Collare elisabettiano per cani: quando serve e come scegliere | prodotti | collare-elisabettiano-cane-guida | collare elisabettiano cane (3600/mese, KD 0) | Guida post-operatoria/post-ferita, alternative morbide, taglie
+- [ ] Come togliere una zecca al gatto senza farlo stressare | salute | togliere-zecca-gatto-guida | come togliere una zecca al gatto (1300/mese, KD 0) | Tecnica specifica per il gatto (diversa dal cane), strumenti consigliati
+- [ ] Impermeabile per cani: quando serve e come scegliere quello giusto | prodotti | impermeabile-cane-guida-scelta | impermeabile cane (2900/mese, KD 0) | Stagionale autunno-inverno; razze a pelo corto che ne hanno più bisogno
+- [ ] Pulci nel gatto: come riconoscerle e liberarsene | salute | pulci-gatto-riconoscerle-rimedi | pulci gatto come riconoscerle (880/mese, KD 0) + pulci gatto (8100/mese generico) | Angolo riconoscimento/sintomi, distinto dagli articoli prodotto antiparassitari già pubblicati
+- [ ] Come sverminare un gatto: quando farlo e con cosa | salute | sverminare-gatto-guida | come sverminare un gatto (720/mese, KD 0) | Frequenza consigliata, prodotti da banco vs vet, cuccioli vs adulti
+- [ ] Gatto che sta male: come riconoscerlo dalla posizione del corpo | gatti | gatto-posizione-corpo-sta-male | posizione del gatto quando sta male (720/mese, KD 0) | Linguaggio del corpo legato a dolore/malessere, angolo poco coperto online
+- [ ] Ansia da separazione nel cane: segnali e come intervenire | cani | ansia-separazione-cane-segnali | cane ansia da separazione (590/mese, KD 0) | Distinto da perche-cane-segue-ovunque (attaccamento) già pubblicato: qui ansia patologica
+- [ ] Gatto che starnutisce spesso: quando preoccuparsi | salute | gatto-starnutisce-spesso-cause | gatto starnutisce spesso (590/mese, KD 0) | Differenziare starnuti occasionali da herpesvirus felino, quando serve il vet
+- [ ] Criceto morto o in letargo: come distinguerli | piccoli-animali | criceto-morto-letargo-differenza | criceto morto (880/mese, KD 0) + criceto in letargo | Equivoco comune e fonte d'ansia per i proprietari, poco trattato in IT
+- [ ] Come abituare il gatto alla lettiera: guida per cuccioli e adulti | gatti | abituare-gatto-lettiera-guida | come abituare il gatto alla lettiera (390/mese, KD 0) | Utile per cuccioli e gatti adottati adulti, diverso da miglior-lettiera-autodetergente (prodotto)
+- [ ] Piante per acquario facili da mantenere per principianti | acquari | piante-acquario-facili-principianti | piante acquario facili (260/mese, KD 0) | Complementare ad acquari-principianti-2026 già pubblicato, focus solo piante a bassa manutenzione
+- [ ] Gatto che soffia: cosa significa e come reagire | gatti | gatto-soffia-cosa-significa | gatto soffia (210/mese, KD 0) | Comportamentale: da distinguere da perche-gatto-morde già pubblicato (soffiare è paura/stress, non aggressione)
+- [ ] Dieta urinary per gatti: cos'è e quando serve davvero | prodotti | dieta-urinary-gatti-quando-serve | urinary s/o gatto (880/mese, KD 0) + urinary gatto (880/mese, KD 0) + royal canin urinary s/o gatto (1300/mese, KD 0, branded) | Spiegare la patologia urinaria senza promuovere un solo brand; distinto dagli articoli su cibo umido/secco già pubblicati
 
 ## Pubblicati
 
