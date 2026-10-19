@@ -1,8 +1,8 @@
 ---
-title: "Furetto come animale domestico: guida completa a cura, alimentazione e costi"
+title: "Furetto in casa: costi (40-80 € al mese), cibo e cosa sapere prima"
 date: 2026-06-07T17:50:00+02:00
 draft: false
-description: "Guida completa al furetto come animale domestico: alimentazione corretta, costi, salute e cura. Scopri cosa serve per tenere un furetto felice e sano in casa."
+description: "Si può tenere un furetto in casa? Costi reali (40-80 € al mese più 200-400 € iniziali), cibo giusto, odore, ore da solo e salute: cosa sapere prima di prenderlo."
 categories: ["piccoli-animali"]
 tags: ["furetto", "piccoli animali", "carnivori", "alimentazione", "cura animali"]
 cover:
