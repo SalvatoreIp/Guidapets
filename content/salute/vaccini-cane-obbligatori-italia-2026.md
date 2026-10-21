@@ -288,7 +288,7 @@ I vaccini per cani in Italia nel 2026 sono **fondamentali per la salute del tuo 
 
 **Guide correlate**:
 - [Miglior cibo secco per cani 2026](https://guidapets.com/prodotti/miglior-cibo-secco-cani-2026/)
-- [Addestramento base cucciolo passo passo](https://guidapets.com/cani/addestramento-cucciolo-base-passi/)
+- [Addestramento base cucciolo passo passo](https://guidapets.com/cani/addestramento-cucciolo-cane-passo-passo/)
 - [Come scegliere il gatto perfetto per casa](https://guidapets.com/gatti/come-scegliere-gatto-perfetto/)
 
 *Fonti: [DoctorVet](https://doctorvet.it/quello-che-ce-da-sapere-sulle-vaccinazioni-del-cane/), [VetSandClinics](https://vetsandclinics.com/it/vaccini-obbligatori-cani-quando-vanno-fatti), [Gricon](https://gricon.it/vaccinazioni-cane-obbligatorie), [Purina IT](https://www.purina.it/articoli/cani/cuccioli/salute/quanti-quali-vaccini-cane), [WSAVA](https://wsava.org)*

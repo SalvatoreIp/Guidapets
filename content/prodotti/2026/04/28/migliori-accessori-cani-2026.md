@@ -303,7 +303,7 @@ Scegliere gli accessori giusti per il tuo cane è un **investimento nel suo bene
 
 **Guide correlate**:
 - [Miglior cibo secco per cani 2026](https://guidapets.com/prodotti/miglior-cibo-secco-cani-2026/)
-- [Addestramento base cucciolo passo passo](https://guidapets.com/cani/addestramento-cucciolo-base-passi/)
+- [Addestramento base cucciolo passo passo](https://guidapets.com/cani/addestramento-cucciolo-cane-passo-passo/)
 - [Vaccini cane obbligatori Italia 2026](https://guidapets.com/salute/vaccini-cane-obbligatori-italia-2026/)
 
 *Fonti: [Amazon.it](https://www.amazon.it), [The Kill](https://www.thekill.it/260-guinzagli-da-lavoro), [TrovaPrezzi](https://www.trovaprezzi.it/accessori-cani-gatti/offerte/guinzaglio-cane), [Associazioni Cinofile Italiane]*

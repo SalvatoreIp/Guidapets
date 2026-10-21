@@ -237,7 +237,7 @@ Scegliere il gatto perfetto per casa non significa trovare la razza "più bella"
 
 **Guide correlate**:
 - [Miglior cibo per gatti sterilizzati 2026](https://guidapets.com/prodotti/miglior-cibo-gatti-sterilizzati-2026/)
-- [Sintomi malattia renale nel gatto](https://guidapets.com/salute/sintomi-malattia-renale-gatto/)
+- [Gatto che beve poco: cause e cosa fare](https://guidapets.com/salute/gatto-beve-poco-cause-cosa-fare-2026/)
 - [Miglior lettiera gatto autodetergente 2026](https://guidapets.com/prodotti/miglior-lettiera-gatto-autodetergente-2026/)
 
 *Fonti: [Associazione Veterinari Italiani](https://www.avmi.it), [Federazione Internazionale Felina](https://www.fifa.org), [Rifugi Animali Italy](https://www.rifugiitaliani.it)*

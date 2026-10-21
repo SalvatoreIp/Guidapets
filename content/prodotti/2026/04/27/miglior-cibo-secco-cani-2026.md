@@ -165,6 +165,6 @@ La salute del tuo cane inizia dalla ciotola: investi con intelligenza e goditi o
 
 **Guide correlate**:
 - [Miglior cibo per gatti sterilizzati 2026](https://guidapets.com/prodotti/miglior-cibo-gatti-sterilizzati-2026/)
-- [Addestramento base cucciolo passo passo](https://guidapets.com/cani/addestramento-base-cucciolo-passi/)
+- [Addestramento base cucciolo passo passo](https://guidapets.com/cani/addestramento-cucciolo-cane-passo-passo/)
 
 *Fonti: [Radio Flash](https://www.radioflash.fm/radio-flash-blog/cibo-per-cani-la-classifica-altroconsumo/), [Naxos Pet Food](https://www.naxospetfood.com/cibo-secco-per-cani), [Altroconsumo](https://www.altroconsumo.it/alimentazione/cibo-per-cani/comparatore), [Associazioni Veterinarie Italiane]*
