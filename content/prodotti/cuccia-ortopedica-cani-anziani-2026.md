@@ -471,13 +471,8 @@ Se il tuo cane mostra questi sintomi, valuta una cuccia ortopedica:
 
 ---
 
-## Consigli del Veterinario
-
-La Dott.ssa Maria Rossi, veterinaria ortopedica:
-
-> "I cani anziani meritano un riposo di qualità. Una cuccia ortopedica adeguata può ridurre il dolore articolare del 30-40% e migliorare la qualità della vita. Consiglio di iniziare presto e di scegliere materiali di qualità."
-
-**I suoi consigli pratici:**
+## Consigli pratici
+**In pratica:**
 
 1. **Inizia presto:** Non aspettare che il cane abbia dolore grave
 2. **Osserva il cane:** Ogni cane ha preferenze diverse

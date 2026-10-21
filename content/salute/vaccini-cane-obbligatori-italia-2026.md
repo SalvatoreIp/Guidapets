@@ -1,294 +1,92 @@
 ---
-title: "Vaccini cane obbligatori Italia 2026: guida completa"
+title: "Vaccini del cane in Italia: quali sono obbligatori, quali servono e quanto costano"
 date: 2026-06-07T17:50:00+02:00
+lastmod: 2026-10-21T12:00:00+02:00
 draft: false
-description: "Vaccini cane obbligatori Italia 2026: rabbia, cimurro, parvovirus, leptospirosi. Calendario vaccinale cuccioli, costi, documenti e consigli del veterinario."
+description: "In Italia nessun vaccino del cane è obbligatorio per tutti: la rabbia serve per viaggiare all'estero. Quali vaccini sono fondamentali, il calendario del cucciolo, i richiami e i costi indicativi 2026."
 categories: ["salute"]
-tags: ["vaccini cane", "rabbia", "cimurro", "parvovirus", "2026", "veterinario"]
+tags: ["vaccini cane", "cucciolo", "rabbia", "leptospirosi"]
 cover:
-  image: /immagini/vaccini-cane-obbligatori-30aprile.jpg
-  alt: "Vaccino cane veterinario"
+  image: "/immagini/vaccini-cane-obbligatori-30aprile.jpg"
+  alt: "Veterinario che vaccina un cane sul tavolo dell'ambulatorio"
 ---
 
-📱 **OFFERTE AMAZON ESCLUSIVE**: Segui le nostre offerte quotidiane su [Telegram](https://t.me/guidaenergia)! 🎁
+<p class="lead">In Italia nessun vaccino è obbligatorio per legge per tutti i cani: l'obbligo vero è il microchip con l'iscrizione all'anagrafe canina. Il vaccino contro la rabbia diventa obbligatorio solo se porti il cane all'estero o se un'ordinanza locale lo impone. Questo non vuol dire che i vaccini siano facoltativi nella pratica: cimurro, parvovirosi ed epatite sono malattie gravi, e i veterinari li considerano fondamentali per ogni cane. Ecco quali fare, quando e quanto si spende.</p>
 
----
+<div class="in-breve">
+<strong>In breve (aggiornato a ottobre 2026)</strong>
+<ul>
+<li><strong>Obbligatorio per tutti:</strong> microchip e iscrizione all'anagrafe canina regionale, non i vaccini.</li>
+<li><strong>Rabbia:</strong> obbligatoria per viaggiare nell'Unione europea (con passaporto europeo) e quando lo prevede un'ordinanza locale.</li>
+<li><strong>Fondamentali (consigliati a tutti):</strong> cimurro, parvovirosi, epatite infettiva (adenovirus).</li>
+<li><strong>Da valutare col veterinario:</strong> leptospirosi, tosse dei canili, leishmaniosi.</li>
+<li><strong>Costi indicativi:</strong> 100-200 € per il ciclo del cucciolo, 50-80 € per un richiamo.</li>
+</ul>
+</div>
 
-**I VACCINI OBBLIGATORI PER IL TUO CANE** – Proteggere il tuo cane dalle malattie infettive non è solo un atto d'amore, ma un **obbligo legale** in Italia. In questa **guida aggiornata ad aprile 2026**, troverai tutte le informazioni sui vaccini obbligatori, il calendario vaccinale, i costi e i documenti necessari per viaggiare in sicurezza con il tuo amico a quattro zampe.
+<div class="cta-box">
+  <a href="https://www.amazon.it/s?k=porta+libretto+sanitario+cane&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🔍 Porta documenti e libretto sanitario per cani su Amazon</a>
+</div>
 
-## **PERCHÈ I VACCINI SONO COSÌ IMPORTANTI**
+## Cosa è obbligatorio davvero
 
-I vaccini per cani non sono un optional: sono la **prima linea di difesa** contro malattie potenzialmente letali. Un cane vaccinato non solo si protegge, ma **protegge la comunità animale** e previene la diffusione di epidemie.
+**Il microchip.** In Italia ogni cane va identificato con microchip e iscritto all'anagrafe degli animali d'affezione della propria regione, di solito entro i primi due mesi di vita o entro pochi giorni dall'adozione. Lo fa il veterinario (o il servizio veterinario dell'ASL). Chi non lo fa rischia una sanzione: è questo l'obbligo che vale per tutti.
 
-### **Malzie che i vaccini prevengono:**
+**La rabbia, solo in alcuni casi.** In Italia la rabbia nei cani domestici non circola, e non esiste un obbligo nazionale di vaccinazione. Il vaccino diventa obbligatorio:
 
-- **Rabbia**: Letale per animali e umani, obbligatoria per legge
-- **Cimurro**: Altamente contagiosa, 90% mortalità se non trattata
-- **Parvovirus**: Gastroenterite emorragica, alta mortalità nei cuccioli
-- **Leptospirosi**: Malattia batterica, trasmissibile all'uomo
-- **Epatite infettiva**: Danno epatico grave
-- **Tosse dei-canili**: Bronchite infettiva, molto contagiosa
+- **per viaggiare in un altro Paese dell'Unione europea:** servono microchip, vaccino antirabbico valido e passaporto europeo per animali da compagnia, rilasciato dall'ASL. Il vaccino va fatto almeno 21 giorni prima della partenza; dal 22 aprile 2026 sono entrate in vigore nuove regole UE per i viaggi con gli animali, quindi conviene chiedere all'ASL i requisiti aggiornati prima di prenotare;
+- **per rientrare da Paesi extra UE**, dove può servire anche un esame del sangue che dimostri la copertura;
+- **quando una Regione o un Comune lo impone** con un'ordinanza, per esempio in caso di focolai vicino al confine; alcune manifestazioni ed esposizioni canine lo richiedono per partecipare.
 
-### **Vantaggi della vaccinazione:**
+Per sapere se nella tua zona è in vigore un obbligo, la fonte giusta è il servizio veterinario della tua ASL.
 
-- **Salute del cane**: Prevenzione malattie gravi e mortali
-- **Obbligo legale**: Molti paesi richiedono vaccinazione rabbia
-- **Viaggi**: Necessario per entrare in UE, USA, Australia
-- **Assicurazioni**: Spesso obbligatorie per polizze
-- **Contagio**: Protegge altri cani e animali selvatici
-- **Trasmissione umana**: Alcuni vaccini prevengono zoonosi
+## I vaccini fondamentali e quelli da valutare
 
-### **Conseguenze mancata vaccinazione:**
+Le linee guida internazionali per i veterinari (WSAVA) dividono i vaccini in due gruppi.
 
-- 🚫 **Sanzioni**: Multe da 100-500€ per rabbia non vaccinata
-- 🚫 **Quarantena**: 6 mesi in caso di morso a persona
-- 🚫 **Eutanasia**: In caso di sospetta rabbia
-- 🚫 **Costi maggiori**: Trattamenti 10-100x il costo vaccino
-- 🚫 **Morte**: Perdita del proprio cane
+| Vaccino | Contro cosa | Per chi | Note |
+|---|---|---|---|
+| Cimurro (CDV) | Malattia virale grave del sistema nervoso e respiratorio | Tutti i cani | Fondamentale |
+| Parvovirosi (CPV-2) | Gastroenterite virale, molto pericolosa nei cuccioli | Tutti i cani | Fondamentale |
+| Epatite infettiva (adenovirus CAV) | Malattia del fegato | Tutti i cani | Fondamentale |
+| Leptospirosi | Malattia batterica trasmessa dall'acqua contaminata dall'urina di topi e ratti, contagiosa anche per l'uomo | Cani che vanno in campagna, vicino a fossi, stagni e fiumi, o in città con molti ratti | Richiamo ogni anno |
+| Tosse dei canili | Infezione respiratoria contagiosa | Cani che vanno in pensione, in asilo per cani o in aree cani affollate | Spesso richiesta dalle pensioni |
+| Leishmaniosi | Malattia trasmessa dai pappataci | Cani che vivono o vanno in vacanza nelle zone a rischio (coste e Centro-Sud) | Non sostituisce il repellente |
+| Rabbia | Malattia virale mortale | Cani che viaggiano all'estero | Obbligatoria per i viaggi |
 
-## **I VACCINI OBBLIGATORI IN ITALIA 2026**
+Per la leishmaniosi la prima difesa resta impedire le punture dei pappataci con collari o pipette repellenti: i prodotti e le differenze sono nella guida agli [antiparassitari per cani e gatti](/prodotti/antiparassitari-cani-gatti-2026/).
 
-### **Vaccino obbligatorio per legge:**
+## Il calendario del cucciolo
 
-**RABBBIA** – L'unico vaccino **obbligatorio per legge** in Italia.
+Lo schema esatto lo decide il veterinario in base al vaccino usato e al rischio della zona, ma segue di solito questa sequenza:
 
-#### **Requisiti:**
-- **Obbligatorio**: Sì, per legge (Decreto Ministeriale 2026)
-- **A chi**: Tutti i cani sopra i 3 mesi
-- **Quando**: Prima vaccinazione a 3 mesi, richiamo annuale
-- **Validità**: 1 anno per vaccini inattivati, 3 anni per alcuni vaccini
-- **Costo**: 30-60€ per dose
+1. **6-8 settimane:** prima dose di cimurro, parvovirosi ed epatite.
+2. **10-12 settimane:** seconda dose; spesso si aggiunge la leptospirosi.
+3. **14-16 settimane o più:** ultima dose del ciclo. Le linee guida WSAVA chiedono che l'ultima dose sia fatta a **16 settimane o dopo**, perché prima gli anticorpi della madre possono bloccare il vaccino.
+4. **6-12 mesi:** richiamo che chiude la vaccinazione del cucciolo.
+5. **Da adulto:** i vaccini fondamentali proteggono a lungo e le linee guida indicano un richiamo **ogni 3 anni**; la leptospirosi invece va ripetuta **ogni anno**.
 
-#### **Dove si fa:**
-- **Veterinari**: Presso studi veterinari autorizzati
-- **Sanità Pubblica**: ASL per campagne gratuite
-- **Documentazione**: Libretto sanitario obbligatorio
+Finché il ciclo non è completo, il cucciolo non dovrebbe frequentare aree cani o luoghi dove passano molti cani sconosciuti. Nel frattempo si possono fare le prime uscite brevi e l'abitudine al guinzaglio: i passi sono nella guida all'[addestramento del cucciolo](/cani/addestramento-cucciolo-cane-passo-passo/).
 
-#### **Sanctions:**
-- **Multa**: 100-500€ per mancata vaccinazione
-- **Sequestro**: Cane può essere sequestrato
-- **Quarantena**: 6 mesi se morde una persona
+## Quanto costano i vaccini
 
-### **Vaccini fortemente raccomandati (non obbligatori ma essenziali):**
+Prezzi indicativi ottobre 2026, variabili da città a città e da ambulatorio ad ambulatorio:
 
-#### **COMBINATO 5-IN-1 (Distemper, Adenovirus, Parvovirus, Leptospirosi, Parainfluenza)**
+- **Singola dose:** 30-60 €.
+- **Ciclo completo del cucciolo (3 visite):** 100-200 €, di solito con visita inclusa.
+- **Richiamo annuale (leptospirosi, a volte insieme agli altri):** 50-80 €.
+- **Vaccino antirabbico:** 30-60 €; il passaporto europeo dall'ASL costa poche decine di euro, a seconda della regione.
+- **Microchip e iscrizione all'anagrafe:** gratis o a costo ridotto presso molte ASL, 30-60 € dal veterinario privato.
 
-**Il vaccino base per tutti i cani**
+**Calcolo sui primi due anni**, cane di città che non viaggia all'estero: ciclo del cucciolo 150 € + richiamo a 12 mesi 60 € + leptospirosi il secondo anno 60 € = circa **270 €**, cioè poco più di 11 € al mese. Una parvovirosi curata in clinica, con ricovero e flebo, costa facilmente diverse centinaia di euro e non sempre il cucciolo si salva.
 
-- **Malattie protette**: 5 malattie gravi
-- **Obbligatorio**: No, ma fortemente raccomandato
-- **A chi**: Tutti i cani, cuccioli e adulti
-- **Quando**: Cuccioli a 8, 12, 16 settimane; adulti richiamo annuale
-- **Costo**: 40-80€ per dose
-- **Validità**: 1 anno
+## Agevolazioni disponibili
 
-**Perché è essenziale:**
-- **Cimurro**: 90% mortalità se non trattato
-- **Parvovirus**: 80% mortalità nei cuccioli non vaccinati
-- **Epatite**: Danno epatico permanente
-- **Leptospirosi**: Trasmissibile all'uomo
-- **Tosse**: Molto contagiosa, difficile da trattare
+- **Detrazione delle spese veterinarie:** nella dichiarazione dei redditi si detrae il 19% delle spese veterinarie per animali da compagnia, per la parte che supera 129,11 € e fino a 550 € di spesa all'anno (al massimo circa 80 € di rimborso). Le visite vanno pagate con carta o bonifico, non in contanti; conserva fatture e scontrini parlanti con il codice fiscale.
+- **ASL e Comuni:** molte ASL inseriscono il microchip gratis; alcuni Comuni organizzano campagne di vaccinazione o sterilizzazione a prezzo ridotto, soprattutto per i cani adottati in canile.
 
-#### **VACCINO PER LA LEISHMANIOSI**
+## Conclusione
 
-**Fondamentale per chi viaggia o vive in zone endemiche**
+L'unico obbligo per tutti i cani italiani è il microchip con l'iscrizione all'anagrafe. La rabbia va fatta solo se viaggi all'estero o se un'ordinanza la impone. Cimurro, parvovirosi ed epatite, però, sono la protezione di base che ogni veterinario consiglia: il ciclo del cucciolo costa 100-200 € e i richiami da adulto sono rari, tranne la leptospirosi annuale per i cani che frequentano acqua e campagna. Porta sempre il libretto sanitario alle visite e chiedi al veterinario un calendario scritto.
 
-- **Malattia protetta**: Leishmaniosi (parassita)
-- **Obbligatorio**: No, ma essenziale in zone a rischio
-- **A chi**: Tutti i cani, specialmente in aree mediterranee
-- **Quando**: 2 dosi iniziali a 4 settimane di distanza, richiamo annuale
-- **Costo**: 60-120€ per ciclo iniziale, 40-80€ richiamo
-- **Validità**: 1 anno
-
-**Perché è importante:**
-- **Zoonosi**: Trasmissibile all'uomo
-- **Terapie**: Nessuna cura efficace, solo prevenzione
-- **Mortalità**: 50% se non trattata precocemente
-- **Distribuzione**: Italia del Sud, zone costiere
-
-#### **VACCINO PER LA TOSSE DEI CANI**
-
-**Consigliato per cani sociali**
-
-- **Malattia protetta**: Tosse dei-canili (bronchite infettiva)
-- **Obbligatorio**: No, consigliato
-- **A chi**: Cuccioli, cani da allevamento, che frequentano canili
-- **Quando**: A 6 mesi, richiamo annuale
-- **Costo**: 20-40€ per dose
-- **Validità**: 6-12 mesi
-
-**Perché è consigliato:**
-- **Contagio**: Molto alto in canili, pensioni, parchi
-- **Trattamento**: Lungo, costoso
-- **Prevenzione**: Più economico del trattamento
-
-#### **VACCINO PER LA RABBIA (nuovamente)**
-
-**Obbligatorio per viaggi e controlli**
-
-- **Quando**: Prima vaccinazione 3 mesi, richiamo annuale o triennale
-- **Documentazione**: Libretto sanitario con timbro veterinario
-- **Certificato**: Necessario per viaggi extra-UE
-
-## **CALENDARIO VACCINALE 2026**
-
-### **Cuccioli (da 6 settimane a 6 mesi)**
-
-| Età | Vaccini | Note |
-|-----|---------|------|
-| **6-8 settimane** | 1° dose combinato | Distemper, adenovirus, parvovirus |
-| **10-12 settimane** | 2° dose combinato + Leptospirosi | Primo richiamo |
-| **14-16 settimane** | 3° dose combinato + Rabbia | Completamento base |
-| **6 mesi** | Richiamo completo | Prima visita di controllo |
-| **1 anno** | Tutti i richiami | Prima vaccinazione annuale |
-
-### **Adulti (1-7 anni)**
-
-| Anno | Vaccini | Note |
-|------|---------|------|
-| **Ogni anno** | Combinato + Rabbia | Se vaccino annuale |
-| **Ogni 3 anni** | Combinato + Rabbia | Se vaccino triennale |
-| **Leishmaniosi** | Ricordo annuale | Se zona a rischio |
-| **Tosse** | Ricordo annuale | Se socializzato |
-
-### **Anziani (7+ anni)**
-
-| Anno | Vaccini | Note |
-|------|---------|------|
-| **Ogni anno** | Combinato + Rabbia | Fondamentali |
-| **Leishmaniosi** | Ricordo annuale | Se zona a rischio |
-| **Controlli** | Analisi sangue | Ogni 6 mesi |
-
-## **TABELLA CONFRONTO VACCINI 2026**
-
-| Vaccino | Tipo | Età prima dose | Richiamo | Costo | Obbligatorio | Fondamentale |
-|---------|------|----------------|----------|-------|--------------|--------------|
-| **Rabbia** | Obbligatorio | 3 mesi | 1-3 anni | 30-60€ | ✅ Sì | ✅ Sì |
-| **Combinato 5-in-1** | Raccomandato | 8 settimane | 1 anno | 40-80€ | ❌ No | ✅ Sì |
-| **Leishmaniosi** | Raccomandato | 7 mesi | 1 anno | 60-120€ | ❌ No | ✅ Sì (zone a rischio) |
-| **Tosse** | Consigliato | 6 mesi | 1 anno | 20-40€ | ❌ No | ⚠️ Situazionale |
-| **Borrelia** | Consigliato | 12 settimane | 1 anno | 30-50€ | ❌ No | ⚠️ Zone boschive |
-
-### **Dettagli costi:**
-
-#### **Cucciolo (primo anno):**
-- **Combinato 5-in-1**: 3 dosi × 50€ = 150€
-- **Rabbia**: 1 dose × 40€ = 40€
-- **Leishmaniosi**: 2 dosi × 70€ = 140€
-- **Totale primo anno**: 330-400€
-
-#### **Adulto (anno successivo):**
-- **Combinato 5-in-1**: 1 dose × 50€ = 50€
-- **Rabbia**: 1 dose × 40€ = 40€
-- **Leishmaniosi**: 1 dose × 70€ = 70€
-- **Totale annuale**: 160-200€
-
-#### **Anziano (ogni anno):**
-- **Combinato 5-in-1**: 1 dose × 50€ = 50€
-- **Rabbia**: 1 dose × 40€ = 40€
-- **Analisi controllo**: 100-150€
-- **Totale annuale**: 190-240€
-
-## **GUIDA ALLA SCELTA: QUANTI VACCINI E QUANDO**
-
-### **Per stile di vita:**
-
-#### **Cane da appartamento (solo città):**
-- **Obbligatorio**: Rabbia
-- **Fondamentale**: Combinato 5-in-1
-- **Consigliato**: Nessuno
-- **Costo annuale**: 90-150€
-
-#### **Cane attivo (passeggiate, parchi):**
-- **Obbligatorio**: Rabbia
-- **Fondamentale**: Combinato 5-in-1
-- **Consigliato**: Tosse, Borrelia
-- **Costo annuale**: 140-200€
-
-#### **Cane da montagna/bosco:**
-- **Obbligatorio**: Rabbia
-- **Fondamentale**: Combinato 5-in-1
-- **Consigliato**: Leishmaniosi, Borrelia
-- **Costo annuale**: 200-280€
-
-#### **Cane da allevamento/affollamento:**
-- **Obbligatorio**: Rabbia
-- **Fondamentale**: Combinato 5-in-1
-- **Consigliato**: Tosse, Leishmaniosi
-- **Costo annuale**: 200-280€
-
-### **Per zona geografica:**
-
-#### **Nord Italia:**
-- **Rischio Leishmaniosi**: Basso
-- **Rischio Borrelia**: Medio-alto
-- **Priorità**: Combinato 5-in-1, Rabbia, Borrelia
-
-#### **Centro Italia:**
-- **Rischio Leishmaniosi**: Medio
-- **Rischio Borrelia**: Medio
-- **Priorità**: Combinato 5-in-1, Rabbia, Leishmaniosi
-
-#### **Sud Italia e Isole:**
-- **Rischio Leishmaniosi**: Alto
-- **Rischio Borrelia**: Basso
-- **Priorità**: Combinato 5-in-1, Rabbia, Leishmaniosi (fondamentale)
-
-## **CONSIGLI DEL VETERINARIO**
-
-**Dott. Elena Ricci, veterinario esperto:**
-
-> "In Italia, la rabbia è l'unico vaccino obbligatorio per legge. Tuttavia, il combinato 5-in-1 è considerato fondamentale da tutte le associazioni veterinarie per la gravità delle malattie che previene. Un cucciolo non vaccinato ha un rischio di mortalità del 90% per cimurro e 80% per parvovirus. La leishmaniosi è particolarmente pericolosa al Sud Italia: evita il viaggio in zone endemiche senza vaccinazione. E ricorda: i vaccini vanno fatti da un veterinario, con libretto sanitario timbrato. I certificati fai-da-te non hanno valore legale. Non saltare mai le vaccinazioni: i costi di un'emergenza superano di 100 volte il costo del vaccino."
-
-### **Errori da evitare:**
-
-- ❗ Vaccinare durante malattia (aspettare guarigione)
-- ❗ Saltare i richiami annuali
-- ❗ Usare vaccini scaduti o non conservati
-- ❗ Vaccinare cuccioli prima delle 6 settimane
-- ❗ Dare per scontato che "il cane non esce mai"
-
-### **Segnali di attenzione:**
-
-- 🚩 Reazioni allergiche post-vaccino (gonfiore, difficoltà respiratorie)
-- 🚩 Febbre alta (>39,5°C) dopo 24-48 ore
-- 🚩 Letargia prolungata (>48 ore)
-- 🚩 Vomito o diarrea persistenti
-
-## **DOCUMENTI NECESSARI**
-
-### **Libretto sanitario obbligatorio:**
-
-- **Formato**: Modello ufficiale ministeriale
-- **Emesso da**: Veterinario autorizzato
-- **Contenuto**: Date vaccinazioni, nomi vaccini, timbro, firma
-- **Validità**: Per tutta la vita del cane
-- **Dove**: Presso ASL, veterinari privati, canili
-
-### **Certificato sanitario per viaggi:**
-
-- **UE**: Passaporto europeo cani
-- **Extra-UE**: Certificato veterinario internazionale
-- **Requisiti**: Vaccinazione rabbia valida, microchip, esame sangue
-- **Tempi**: Emesso 10 giorni prima del viaggio
-- **Costo**: 50-150€
-
-### **Documenti per ispettori:**
-
-- **Libretto sanitario**: Sempre in possesso
-- **Microchip**: Obbligatorio (ISO 11784/11785)
-- **Certificato rabbia**: Per zone a rischio
-- **Documentazione vaccinazioni**: Per controlli casuali
-
-## **CONCLUSIONI**
-
-I vaccini per cani in Italia nel 2026 sono **fondamentali per la salute del tuo animale e per la legge**. La rabbia è obbligatoria, ma il combinato 5-in-1 è essenziale per prevenire malattie mortali. Un cane vaccinato vive più a lungo, più sano e può viaggiare liberamente. Investire in vaccinazioni significa **proteggere il tuo cane, te stesso e la comunità**.
-
-📱 **OFFERTE AMAZON ESCLUSIVE**: Segui le nostre offerte quotidiane su [Telegram](https://t.me/guidaenergia)! 🎁
-
-**Guide correlate**:
-- [Miglior cibo secco per cani 2026](https://guidapets.com/prodotti/miglior-cibo-secco-cani-2026/)
-- [Addestramento base cucciolo passo passo](https://guidapets.com/cani/addestramento-cucciolo-cane-passo-passo/)
-- [Come scegliere il gatto perfetto per casa](https://guidapets.com/gatti/come-scegliere-gatto-perfetto/)
-
-*Fonti: [DoctorVet](https://doctorvet.it/quello-che-ce-da-sapere-sulle-vaccinazioni-del-cane/), [VetSandClinics](https://vetsandclinics.com/it/vaccini-obbligatori-cani-quando-vanno-fatti), [Gricon](https://gricon.it/vaccinazioni-cane-obbligatorie), [Purina IT](https://www.purina.it/articoli/cani/cuccioli/salute/quanti-quali-vaccini-cane), [WSAVA](https://wsava.org)*
+*Fonti: [WSAVA - Linee guida per la vaccinazione di cani e gatti (versione italiana)](https://wsava.org/wp-content/uploads/2020/01/WSAVA-Vaccination-Guidelines-2015-Italian.pdf), [GreenMe - nuove regole UE per viaggiare con animali (2026)](https://www.greenme.it/pet/nuove-regole-viaggiare-con-animali-europa/), [AUSL Bologna - istruzioni per il passaporto per animali da compagnia](https://www.ausl.bologna.it/servt/dipt/dsp/trasp/proc%20dsp/movimentazione-animali-ue/files/003-Istruzioni-per-il-lascio-del-Passaporto-PET-1.pdf), [Assicurazione.it - guida ai vaccini del cane](https://www.assicurazione.it/guide/guida-sui-vaccini-del-cane.html), [Altroconsumo - detrazione delle spese veterinarie](https://www.altroconsumo.it/soldi/730/consigli/spese-veterinarie).*

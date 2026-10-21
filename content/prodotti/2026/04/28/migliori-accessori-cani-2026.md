@@ -10,7 +10,6 @@ cover:
   alt: "Accessori cani"
 ---
 
-📱 **OFFERTE AMAZON ESCLUSIVE**: Segui le nostre offerte quotidiane su [Telegram](https://t.me/guidaenergia)! 🎁
 
 ---
 
@@ -282,12 +281,7 @@ Gli accessori per cani non sono solo oggetti di lusso: sono **strumenti essenzia
 - **Medio (40-80€)**: Collar Club, Lily & Roo, Lucky Pets, Nina Ottosson
 - **Premium (80-150€)**: Ruffwear set completo, The Field Company, KONG
 
-## **CONSIGLI DEL VETERINARIO**
-
-**Dott. Elena Ricci, veterinario comportamentalista:**
-
-> "Gli accessori devono essere scelti con cura: un collare troppo stretto può danneggiare la trachea, una pettorina mal posizionata irrita le ascelle. Per cani che tirano, preferisco la pettorina al collare. I giochi devono essere adeguati alla taglia: una pallina troppo piccola per un cane grande è un rischio di soffocamento. Controla regolarmente l'usura: nylon sfrangiato, cerniere rotte, gomma crepata vanno sostituiti. Non risparmiare su sicurezza, ma non serve spendere 100€ per un guinzaglio: uno da 20€ può bastare. I giochi puzzle sono eccellenti per cani che soffrono l'ansia da separazione. E ricorda: nessun accessorio sostituisce la presenza del proprietario!"
-
+## Consigli pratici
 ### **Segnali di allarme:**
 - 🚩 Collare che fa peli o irritazioni
 - 🚩 Guinzaglio che si spezza con forza normale
@@ -299,7 +293,6 @@ Gli accessori per cani non sono solo oggetti di lusso: sono **strumenti essenzia
 
 Scegliere gli accessori giusti per il tuo cane è un **investimento nel suo benessere**. Con questa guida, hai tutte le informazioni per fare scelte consapevoli, senza spendere troppo ma senza compromettere qualità e sicurezza. Ricorda: **la sicurezza viene prima di tutto**, e il miglior accessorio è quello che il tuo cane accetta volentieri e usa con piacere.
 
-📱 **OFFERTE AMAZON ESCLUSIVE**: Segui le nostre offerte quotidiane su [Telegram](https://t.me/guidaenergia)! 🎁
 
 **Guide correlate**:
 - [Miglior cibo secco per cani 2026](https://guidapets.com/prodotti/miglior-cibo-secco-cani-2026/)

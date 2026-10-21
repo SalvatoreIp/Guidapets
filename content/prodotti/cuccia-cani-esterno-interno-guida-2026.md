@@ -429,13 +429,8 @@ Ecco la classifica aggiornata al 2026 delle migliori cuccie, basata su qualità,
 
 ---
 
-## Consigli del Veterinario
-
-La Dott.ssa Elena Rossi, veterinaria comportamentalista:
-
-> "La cuccia è fondamentale per il benessere del cane. Deve essere posizionata in un luogo tranquillo, lontano da rumori forti e traffico. Per i cuccioli, consiglio cuccie con bordi rialzati che imitano la protezione della madre. Per i cani anziani, il memory foam è essenziale per prevenire ulcere da decubito."
-
-**I suoi consigli pratici:**
+## Consigli pratici
+**In pratica:**
 
 1. **Posizionamento:** In una zona tranquilla, non in corridoio o vicino alla porta
 2. **Temperatura:** Lontano da fonti di calore diretto (stufe, termosifoni)

@@ -164,9 +164,7 @@ Primi pesci resistenti (1-2 pagliaccio), poi coralli DZO (polipi molli) e infine
 
 <p><strong>4. Negligenza nei test:</strong> Controlla salinità e parametri chimici almeno 2 volte a settimana.</p>
 
-<h2>Consigli del veterinario</h2>
-
-<p>Il Dott. Marco Rossi, veterinario specializzato in animali esotici, raccomanda:</p>
+<h2>Consigli pratici</h2>
 
 <ul>
 <li>Non usare mai prodotti chimici non specifici per acquari marini</li>

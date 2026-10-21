@@ -378,13 +378,8 @@ Ecco la classifica aggiornata al 2026 dei migliori tiragraffi, basata su recensi
 
 ---
 
-## Consigli del Comportamentalista
-
-La Dott.ssa Maria Rossi, veterinaria comportamentalista:
-
-> "Il tiragraffi deve essere posizionato strategicamente: vicino ai punti dove il gatto dorme, ai mobili che graffia, e in aree di transito (il gatto marca il territorio). Se è troppo alto, il gatto non lo userà. Se è troppo basso, non si sente sicuro."
-
-**I suoi consigli pratici:**
+## Consigli pratici
+**In pratica:**
 
 1. **Inizia subito:** Dai un tiragraffi quando porti il gatto a casa (prima che graffi i mobili)
 2. **Catnip:** Spolverizza catnip sul sisal per attirare il gatto

@@ -130,11 +130,8 @@ Ecco i 5 comandi base che ogni cucciolo dovrebbe imparare, in ordine di priorit�
 
 ❌ **Ignorare la stanchezza:** Se il cucciolo mostra segni di stress (ansia, leccamento eccessivo), fermati subito
 
-## Consigli del veterinario comportamentalista
-
-> "L'addestramento positivo non è un metodo 'soft': è il più efficace scientificamente dimostrato. I cuccioli addestrati con rinforzo positivo hanno il 70% in meno di problemi comportamentali a 2 anni di età rispetto a quelli addestrati con metodi punitivi", spiega la Dott.ssa Laura Bianchi, veterinaria comportamentalista.
-
-I consigli pratici:
+## Consigli pratici
+In pratica:
 - **Inizia SOLO quando il cucciolo è fresco:** Mai dopo aver giocato troppo o quando è stanco
 - **Usa premi di valore variabile:** Più difficile il comando, più prezioso il premio
 - **Chiudi le sessioni sempre positivamente:** Termina sempre con un successo, anche se piccolo
